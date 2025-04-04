@@ -41,4 +41,4 @@ Trabajaremos con una base de datos que contiene la siguiente tabla:
 
 1. Clona este repositorio:  
    ```bash
-   git clone [<url_del_repositorio>](https://github.com/LucasLopezC/Desafio-SQL-2.git)
+   git clone https://github.com/LucasLopezC/Desafio-SQL-2.git
