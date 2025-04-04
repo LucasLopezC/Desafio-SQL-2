@@ -1,0 +1,1001 @@
+Teacher_ID,First_Name,Last_Name,City_ID,Subject,Years_of_Experience,Education_Level,Latest_Degree,Latest_Degree_Date,Performance_Rating,Classes_Taught,Last_Training_Date
+1,Louise,Fulkerson,15,Physical Education,24,Bachelor,Doctor of Education,2012-08-26,3.77,1,2024-08-08
+2,Pauline,Nicholas,18,Science,12,Master,Bachelor of Education,2009-11-12,3.94,3,2024-06-30
+3,Tracy,Vallejo,4,Art,26,Bachelor,Doctor of Education,2016-10-22,4.85,3,2024-03-19
+4,Jacob,Ullrich,19,History,24,Master,Bachelor of Education,2007-06-09,3.37,5,2024-04-06
+5,Ricky,Oconner,2,Math,11,PhD,Master of Science in Education,2016-07-30,4.93,1,2024-11-14
+6,Michiko,David,20,History,22,PhD,Master of Science in Education,2018-08-13,3.98,4,2024-04-09
+7,Patricia,Scott,11,Art,25,PhD,Master of Arts in Teaching,2013-05-29,3.35,4,2024-08-29
+8,Betty,Perron,14,Science,22,Master,PhD in Education,2018-08-09,4.42,4,2024-12-10
+9,Constance,Bowman,9,History,11,Master,Bachelor of Education,2012-08-26,3.61,1,2024-11-22
+10,Lorraine,Giddens,8,History,23,Master,PhD in Education,2009-08-02,3.28,4,2024-07-05
+11,John,Decamp,5,Art,20,Bachelor,Doctor of Education,2017-11-25,4.22,3,2024-01-02
+12,Patrick,Keen,6,English,25,Bachelor,Doctor of Education,2003-05-08,3.37,1,2024-06-20
+13,Donald,Horne,7,Science,23,PhD,Doctor of Education,2011-06-28,4.15,2,2024-09-14
+14,Sheryl,Hunsberger,19,History,18,PhD,Doctor of Education,2022-01-29,3.14,3,2024-11-26
+15,Carol,Kelly,12,History,17,Master,Master of Education,2005-11-22,3.14,3,2024-09-04
+16,Kenneth,Rice,1,History,29,Bachelor,Bachelor of Education,2000-10-16,3.07,1,2024-09-12
+17,Krista,Colarusso,4,History,3,Master,Master of Science in Education,2003-02-07,4.08,5,2024-06-02
+18,Douglas,Navarez,2,Science,10,Bachelor,Master of Science in Education,2019-06-22,4.32,2,2024-06-21
+19,Lolita,Harrison,16,Math,22,Master,Bachelor of Education,2011-05-30,4.51,3,2024-05-07
+20,Becki,Levine,1,Physical Education,24,Bachelor,Master of Education,2008-03-24,4.62,4,2024-10-24
+21,Darlene,White,17,Art,5,Bachelor,Master of Science in Education,2008-03-30,3.96,5,2024-11-06
+22,Virginia,Martin,6,History,2,Bachelor,PhD in Education,2011-09-24,4.61,5,2024-12-20
+23,Reggie,Martelli,6,History,19,Bachelor,Doctor of Education,2019-10-06,3.49,1,2024-02-26
+24,Roy,Talley,18,Math,9,Master,Bachelor of Education,2021-02-12,4.63,1,2024-04-03
+25,Jonathan,Sumpter,18,Physical Education,19,PhD,Master of Science in Education,2013-01-27,3.98,3,2024-10-12
+26,James,Harrell,6,Art,10,Master,Master of Education,2013-02-26,4.77,4,2024-06-16
+27,Angel,Devlin,1,History,23,Master,Doctor of Education,2007-08-29,3.84,3,2024-07-19
+28,Miranda,Dyer,12,Math,12,Bachelor,Master of Education,2005-01-29,3.13,1,2024-06-21
+29,Tammy,Young,11,Art,27,PhD,Master of Education,2021-01-02,4.42,1,2024-01-01
+30,Mary,Nieto,8,Art,25,Master,Master of Science in Education,2006-02-10,3.96,3,2024-10-03
+31,Arthur,Pope,17,History,18,Master,PhD in Education,2000-09-03,3.23,3,2024-10-14
+32,Colin,Haber,3,Art,20,Master,Master of Education,2009-03-15,4.95,4,2024-09-12
+33,Tina,Moffitt,6,Math,13,Bachelor,PhD in Education,2017-01-01,4.17,4,2024-11-29
+34,Peggy,Strickland,15,Math,13,Master,Master of Arts in Teaching,2016-05-09,4.95,3,2024-02-21
+35,Dorene,Bryant,11,Physical Education,16,PhD,Bachelor of Education,2019-07-27,4.25,1,2024-08-27
+36,James,Fitzgerald,1,English,22,PhD,Master of Arts in Teaching,2009-06-25,3.41,2,2024-07-31
+37,Jackie,Robinson,16,English,27,PhD,Master of Arts in Teaching,2003-03-20,4.72,2,2024-02-12
+38,Raymond,Ball,9,Math,27,PhD,Bachelor of Education,2001-10-01,3.77,4,2024-11-29
+39,Robert,Eaton,4,Art,14,Master,Master of Science in Education,2014-10-06,4.65,2,2024-01-13
+40,Brian,Jackson,18,Math,8,Bachelor,Master of Education,2009-08-23,3.31,2,2024-07-06
+41,Tammy,Whitaker,13,Math,12,Master,Bachelor of Education,2005-11-24,3.07,4,2024-11-10
+42,Wanda,Williams,4,History,23,Bachelor,Master of Arts in Teaching,2013-06-30,3.93,2,2024-03-30
+43,Burton,Carpenter,20,Science,23,PhD,Doctor of Education,2020-09-16,4.18,1,2024-10-19
+44,Russell,Sou,4,Physical Education,16,Bachelor,Doctor of Education,2019-07-12,3.11,2,2024-11-10
+45,Stanley,Miller,13,Science,11,PhD,Doctor of Education,2008-06-24,3.63,1,2024-12-17
+46,Claudia,Mckinney,9,Math,19,Bachelor,Bachelor of Education,2008-03-05,4.97,4,2024-03-30
+47,Dawn,Cayer,10,Art,16,PhD,Bachelor of Education,2013-08-07,4.55,1,2024-05-15
+48,Raymond,Staples,15,History,25,Bachelor,Master of Science in Education,2003-11-17,4.6,5,2024-01-24
+49,Sammie,Kulas,15,English,10,Master,Bachelor of Education,2002-01-07,4.47,5,2024-02-26
+50,Christi,Ingram,6,Physical Education,4,Master,Master of Arts in Teaching,2023-04-19,4.95,1,2024-08-15
+51,Bruce,Trytten,17,English,14,Bachelor,Master of Arts in Teaching,2016-01-26,4.52,1,2024-08-12
+52,Mattie,Scott,13,Physical Education,12,Master,Doctor of Education,2018-05-13,4.02,2,2024-07-29
+53,Samuel,Siddiqui,19,History,13,PhD,Master of Science in Education,2007-04-26,4.27,3,2024-09-15
+54,James,Brown,9,English,21,PhD,Master of Education,2022-08-15,4.54,5,2024-07-25
+55,Adam,Stelzer,16,Art,20,PhD,Master of Education,2004-11-09,3.06,2,2024-12-24
+56,Dixie,Milton,1,History,18,Bachelor,Master of Education,2004-10-07,3.76,1,2024-02-03
+57,Daisy,Sheffield,10,Art,10,Bachelor,Bachelor of Education,2015-01-01,3.85,2,2024-11-13
+58,Mario,Bintner,18,History,12,PhD,Master of Arts in Teaching,2022-11-24,4.3,1,2024-08-24
+59,Louis,Ortiz,9,Physical Education,4,Master,Master of Arts in Teaching,2021-07-10,3.96,5,2024-12-29
+60,Michael,Fincham,10,English,6,PhD,PhD in Education,2018-07-21,4.07,5,2024-08-30
+61,Lynn,Powers,2,Art,7,Master,PhD in Education,2002-11-17,4.3,1,2024-02-28
+62,Carol,Brewer,4,History,5,Bachelor,Master of Science in Education,2001-05-04,4.19,3,2024-06-29
+63,Marsha,Oyler,9,Science,6,PhD,PhD in Education,2009-08-01,3.72,5,2024-11-26
+64,Sarah,Weeks,9,History,9,PhD,Master of Education,2017-08-27,4.49,1,2024-01-05
+65,Harry,Garibay,2,History,28,Master,Master of Science in Education,2000-01-25,3.07,5,2024-11-03
+66,Virginia,Reagan,6,Art,14,PhD,Master of Arts in Teaching,2008-09-25,4.83,4,2024-01-12
+67,Candace,Bass,3,Art,19,Bachelor,PhD in Education,2003-11-27,4.49,4,2024-10-05
+68,Janice,Tomidy,18,Math,21,PhD,Master of Arts in Teaching,2011-02-28,4.78,4,2024-07-22
+69,Cary,Chaisson,2,Art,17,Bachelor,PhD in Education,2008-11-06,4.56,5,2024-05-13
+70,Joshua,Donner,14,English,22,Master,Doctor of Education,2009-04-19,4.41,1,2024-11-07
+71,Christopher,Peluso,10,Math,16,Bachelor,Master of Science in Education,2013-09-20,4.96,1,2024-12-08
+72,Steven,Harris,19,Art,5,Master,Doctor of Education,2023-08-24,4.41,2,2024-12-28
+73,Kathleen,Garcia,17,Physical Education,23,Master,Doctor of Education,2007-06-23,4.58,5,2024-10-08
+74,Timothy,Perez,6,Math,16,Bachelor,Doctor of Education,2008-10-27,3.01,5,2024-02-10
+75,Vernon,Smith,7,Physical Education,7,Bachelor,Master of Science in Education,2019-11-24,4.37,4,2024-04-11
+76,Jose,Sotelo,15,History,2,PhD,PhD in Education,2016-05-26,3.06,1,2024-03-03
+77,Lora,Friedly,15,Physical Education,25,Bachelor,Master of Education,2021-11-14,4.16,2,2024-08-17
+78,Annie,Smith,6,Science,23,PhD,Master of Arts in Teaching,2013-10-06,3.15,3,2024-05-14
+79,Katherine,Cunningham,18,Art,21,PhD,Master of Science in Education,2005-05-29,4.41,1,2024-08-13
+80,Rogelio,Roberts,2,History,24,PhD,Doctor of Education,2001-11-27,4.94,4,2024-02-20
+81,Katie,Duran,3,Science,5,PhD,Master of Science in Education,2014-08-13,4.81,1,2024-10-04
+82,Brian,Elizarraras,14,History,19,PhD,Doctor of Education,2014-09-10,4.17,3,2024-01-14
+83,Charles,Alston,3,Math,17,PhD,Master of Science in Education,2013-09-26,3.01,2,2024-05-22
+84,John,Mccaleb,14,Physical Education,26,Master,Master of Education,2003-06-03,3.8,2,2024-05-19
+85,Laura,Whitaker,9,History,29,PhD,PhD in Education,2011-09-10,4.82,1,2024-01-18
+86,Henry,Alston,13,Science,4,PhD,PhD in Education,2004-01-10,4.8,1,2024-08-25
+87,Terry,Fisher,6,History,17,PhD,Bachelor of Education,2015-06-23,4.88,4,2024-06-15
+88,Donna,Lee,19,English,22,Bachelor,Doctor of Education,2019-07-03,4.79,4,2024-07-07
+89,Alicia,Wagner,19,English,13,PhD,Master of Arts in Teaching,2022-10-27,4.54,5,2024-07-29
+90,Richard,Robinson,19,English,2,PhD,Doctor of Education,2014-07-07,3.15,3,2024-01-31
+91,Jennifer,Baca,5,Math,21,PhD,Master of Arts in Teaching,2022-10-06,3.98,2,2024-12-06
+92,Stacey,Woody,6,History,4,Master,Doctor of Education,2013-08-21,3.0,1,2024-10-05
+93,Denise,Carp,17,Science,6,PhD,Doctor of Education,2014-02-03,4.54,2,2024-05-15
+94,Virginia,Myers,16,English,27,PhD,Master of Science in Education,2006-06-02,4.99,3,2024-07-21
+95,Suzanne,Solis,13,Science,2,Bachelor,Doctor of Education,2002-03-24,4.43,4,2024-10-10
+96,Penni,Cayea,3,History,26,PhD,Master of Science in Education,2001-10-02,3.85,3,2024-10-22
+97,Rusty,Stice,12,History,26,PhD,Doctor of Education,2011-10-17,4.86,4,2024-04-01
+98,Thomas,Byrne,1,Physical Education,13,Bachelor,Master of Arts in Teaching,2020-11-19,4.17,3,2024-12-25
+99,Olga,Keough,17,Math,12,Bachelor,Doctor of Education,2023-09-25,3.22,1,2024-04-17
+100,Linda,Gonzalez,4,English,21,Master,Doctor of Education,2009-10-28,3.68,5,2024-02-29
+101,Michael,Biddick,16,Art,9,Bachelor,PhD in Education,2020-03-22,3.78,4,2024-11-07
+102,Joseph,Smith,17,Science,21,Master,Master of Arts in Teaching,2000-06-12,4.83,4,2024-07-25
+103,Debra,Lacher,17,English,14,PhD,Doctor of Education,2011-04-21,3.81,4,2024-10-31
+104,Carol,Simoneavd,14,History,1,Master,Master of Science in Education,2023-04-26,4.98,3,2024-06-11
+105,Myrtle,Rhodes,3,Physical Education,23,Master,Master of Science in Education,2001-07-28,3.81,1,2024-10-10
+106,Shanna,Strefeler,7,Art,10,PhD,Master of Science in Education,2009-02-14,3.61,2,2024-04-12
+107,Julio,Heming,9,Science,21,Bachelor,Bachelor of Education,2014-10-12,3.3,1,2024-07-03
+108,Jeffrey,Suarez,1,Art,25,Bachelor,Master of Education,2000-02-13,4.07,2,2024-10-29
+109,Chas,Parker,13,Art,11,Bachelor,Doctor of Education,2002-10-21,3.16,4,2024-11-11
+110,Christine,Gomez,18,Physical Education,7,PhD,Master of Science in Education,2012-03-30,3.5,5,2024-06-07
+111,Christopher,Jablonski,4,History,10,Master,Master of Education,2011-11-07,4.44,3,2024-04-15
+112,Randy,Meadows,13,Math,17,Master,Bachelor of Education,2015-04-24,4.43,2,2024-08-28
+113,Kevin,Turner,4,English,13,Bachelor,Master of Science in Education,2016-03-28,3.25,4,2024-12-05
+114,Jessica,Rose,17,History,16,Master,Doctor of Education,2008-03-04,3.47,5,2024-09-24
+115,Harold,Giliberto,8,Math,26,Master,Bachelor of Education,2017-09-27,4.04,4,2024-04-23
+116,Celia,Stockburger,15,Art,17,PhD,Master of Education,2006-12-24,4.08,3,2024-06-22
+117,Doris,Mosser,6,Science,8,Master,Bachelor of Education,2014-06-13,4.14,3,2024-09-27
+118,Dorothy,Manuel,9,Science,15,Master,Master of Education,2023-02-11,4.01,5,2024-02-22
+119,Carole,Walden,9,Physical Education,6,Master,Doctor of Education,2019-11-19,4.68,4,2024-01-03
+120,Marlin,Smith,9,Math,25,Master,Master of Education,2004-02-02,3.68,3,2024-09-11
+121,Danny,Gardner,6,Science,14,Master,PhD in Education,2003-02-27,3.4,4,2024-03-18
+122,Louise,Halverson,8,History,12,PhD,PhD in Education,2003-11-11,4.32,3,2024-07-23
+123,Delores,Grill,2,Physical Education,20,Master,Master of Science in Education,2018-11-06,3.64,5,2024-01-05
+124,Margaret,Pao,17,Physical Education,4,PhD,Master of Science in Education,2010-02-21,3.91,1,2024-04-09
+125,Floyd,Romo,3,Physical Education,23,PhD,PhD in Education,2009-04-16,4.47,3,2024-12-22
+126,Charlie,Eggleston,3,Science,3,PhD,Master of Science in Education,2005-02-25,4.85,4,2024-02-20
+127,Francisca,Paules,7,Science,2,Master,Bachelor of Education,2009-01-02,3.03,4,2024-05-22
+128,Tracy,Seid,3,Math,8,PhD,Bachelor of Education,2015-08-06,4.57,3,2024-07-08
+129,Margaret,Pina,2,Math,27,PhD,Doctor of Education,2013-08-17,3.75,3,2024-01-13
+130,Cedric,Humphrey,5,History,10,Bachelor,Doctor of Education,2014-07-24,3.03,1,2024-07-06
+131,James,Elliott,14,Physical Education,5,PhD,PhD in Education,2000-03-05,4.14,3,2024-11-03
+132,Steven,Austin,5,English,14,Master,Bachelor of Education,2022-09-20,3.39,4,2024-09-16
+133,Timmy,Black,20,Physical Education,3,Bachelor,Doctor of Education,2017-11-12,4.6,2,2024-08-27
+134,Connie,Luczak,4,Math,22,PhD,Master of Science in Education,2008-10-05,3.18,5,2024-05-28
+135,Lisa,Mcdaniel,7,Physical Education,18,Bachelor,Master of Science in Education,2002-09-02,3.73,4,2024-02-27
+136,Jeanna,Wheeler,4,History,29,Bachelor,PhD in Education,2010-03-12,4.84,5,2024-02-17
+137,Erik,Mccarver,14,Art,9,Master,Master of Arts in Teaching,2018-05-22,3.59,2,2024-10-10
+138,Herman,Rojas,15,Science,22,Bachelor,Bachelor of Education,2012-02-09,4.11,4,2024-10-29
+139,Robert,Burnett,2,Physical Education,6,PhD,Master of Science in Education,2014-03-20,3.84,2,2024-12-15
+140,Laura,Crane,15,Science,25,Bachelor,Master of Education,2009-08-31,4.11,2,2024-11-28
+141,Odessa,Carrick,6,Science,18,Bachelor,Doctor of Education,2010-01-07,4.62,2,2024-03-20
+142,Sondra,Verstraete,12,Physical Education,17,PhD,Master of Education,2006-08-10,4.09,5,2024-08-08
+143,Alice,Hutton,10,Art,2,PhD,Bachelor of Education,2007-10-02,3.82,2,2024-04-15
+144,Kathleen,Harrison,14,Math,10,Master,Master of Science in Education,2015-05-25,4.96,2,2024-02-10
+145,Matt,Bautista,14,History,26,Master,Master of Education,2019-05-08,4.93,5,2024-11-11
+146,Kathleen,Adams,8,Science,4,PhD,Master of Education,2016-07-26,3.21,5,2024-11-24
+147,Margaret,Jones,9,Science,13,PhD,Doctor of Education,2020-07-29,4.63,3,2024-11-19
+148,Suzanne,Ripson,7,English,6,Bachelor,Master of Education,2018-12-19,4.65,1,2024-02-26
+149,Martha,Hanna,19,Math,13,Master,Master of Arts in Teaching,2011-08-07,4.22,2,2024-02-08
+150,Natalie,Hosle,17,Art,21,Bachelor,Bachelor of Education,2011-04-17,3.92,5,2024-01-30
+151,Eric,Schoof,11,Art,1,Bachelor,Master of Arts in Teaching,2013-08-14,3.21,2,2024-04-15
+152,David,Paris,2,History,28,Master,Master of Education,2022-06-09,3.72,2,2024-09-25
+153,Estell,Sanders,13,English,17,PhD,Master of Education,2001-08-20,4.97,4,2024-08-15
+154,Kathy,Schnieders,7,Math,19,Bachelor,Master of Science in Education,2013-01-04,3.94,1,2024-10-23
+155,Rebecca,Reese,9,Math,16,Bachelor,Doctor of Education,2016-12-16,4.78,5,2024-03-05
+156,Michael,Wine,6,Art,14,Master,Master of Arts in Teaching,2002-07-01,4.42,2,2024-07-23
+157,Anthony,Senato,14,Art,2,Master,Master of Science in Education,2002-06-12,4.1,2,2024-11-13
+158,Stephanie,Debem,2,Physical Education,16,Bachelor,Doctor of Education,2021-01-27,4.6,5,2024-10-05
+159,Sharon,Pearson,5,Physical Education,24,Master,Doctor of Education,2018-08-07,3.83,4,2024-09-19
+160,Amy,Bremer,17,English,19,Bachelor,PhD in Education,2014-12-15,4.59,4,2024-03-19
+161,Annette,Kelsey,19,Art,26,Bachelor,PhD in Education,2000-11-19,4.51,2,2024-02-19
+162,Olga,Ballard,1,English,2,Master,Bachelor of Education,2023-04-21,4.5,1,2024-10-10
+163,Robert,Collum,12,Science,23,Master,Master of Education,2003-02-13,3.73,3,2024-06-30
+164,Lila,Meyers,6,English,19,Bachelor,PhD in Education,2003-12-23,4.2,2,2024-04-25
+165,Michael,Salmon,15,Physical Education,26,Bachelor,Master of Science in Education,2006-11-22,3.43,1,2024-07-08
+166,Erica,Mcculloch,18,English,8,Bachelor,Master of Arts in Teaching,2018-04-17,4.44,4,2024-03-11
+167,Darlene,Evans,3,English,14,Master,PhD in Education,2002-12-10,3.11,4,2024-05-01
+168,Joseph,Hill,2,Physical Education,11,Master,Doctor of Education,2023-07-11,4.54,5,2024-08-31
+169,Elaine,Hochstatter,17,English,16,Master,Doctor of Education,2019-02-11,3.06,2,2024-06-28
+170,Charles,Hogue,13,Physical Education,13,PhD,Bachelor of Education,2019-11-06,4.54,2,2024-08-08
+171,David,Arnold,1,Art,27,PhD,Master of Science in Education,2001-03-29,4.61,4,2024-05-24
+172,Yoshie,Munoz,4,History,20,Bachelor,Master of Education,2005-05-26,3.46,1,2024-08-22
+173,Larry,Coleman,18,Math,14,Master,PhD in Education,2010-03-09,4.91,3,2024-06-14
+174,Joan,Grant,6,English,9,PhD,Master of Education,2004-01-25,3.97,5,2024-10-22
+175,Herman,Havercroft,9,English,14,Bachelor,Bachelor of Education,2008-03-23,4.16,5,2024-12-17
+176,Ricky,Holmes,10,English,26,Master,Doctor of Education,2011-10-26,3.47,5,2024-10-24
+177,Robert,Pepper,4,English,3,Master,Bachelor of Education,2017-12-14,3.82,3,2024-03-10
+178,Eugene,Paxton,15,Art,19,PhD,Doctor of Education,2019-10-09,3.37,3,2024-06-19
+179,Richard,Gibson,17,History,1,PhD,Bachelor of Education,2022-12-05,3.84,5,2024-05-03
+180,Ruth,Beattie,3,History,6,Master,PhD in Education,2002-06-28,4.54,4,2024-06-10
+181,Kenneth,Perreault,9,Science,21,Bachelor,Doctor of Education,2005-06-01,3.13,5,2024-02-25
+182,Christopher,Roach,13,History,7,PhD,Master of Arts in Teaching,2022-10-25,3.93,2,2024-03-31
+183,Don,Hufft,1,History,2,Bachelor,Bachelor of Education,2004-03-15,3.54,5,2024-10-24
+184,Patricia,Gallo,3,Physical Education,27,Bachelor,Bachelor of Education,2007-10-07,4.24,1,2024-10-06
+185,Kenneth,Carter,5,Art,7,Master,Doctor of Education,2007-07-03,3.26,3,2024-08-11
+186,Thomas,Walker,20,Physical Education,5,Bachelor,Bachelor of Education,2010-03-10,3.6,2,2024-12-03
+187,Clark,Nunnenkamp,2,Science,20,PhD,Master of Arts in Teaching,2006-01-09,4.73,5,2024-07-07
+188,Amanda,Boner,19,History,19,Bachelor,Bachelor of Education,2000-11-16,3.75,2,2024-03-17
+189,Analisa,Mercado,14,Art,21,Master,Doctor of Education,2006-04-18,3.29,2,2024-03-24
+190,Donna,Emery,8,Science,19,PhD,Doctor of Education,2015-10-17,3.51,2,2024-01-12
+191,Andrew,Anderson,1,Math,10,PhD,Master of Arts in Teaching,2013-11-18,4.97,2,2024-10-02
+192,Antonio,Edwards,16,Physical Education,28,PhD,PhD in Education,2006-07-09,3.57,4,2024-10-27
+193,James,Gellert,19,English,4,Bachelor,Master of Arts in Teaching,2010-08-17,3.1,2,2024-12-16
+194,Kathryn,Lawrence,11,History,25,PhD,Bachelor of Education,2015-08-08,4.14,1,2024-01-07
+195,Randall,Lindsey,8,Science,18,PhD,Doctor of Education,2023-11-12,3.7,2,2024-09-28
+196,Peggy,Polo,15,Science,6,Master,Master of Arts in Teaching,2015-06-06,3.44,1,2024-09-02
+197,Jamie,Stanley,14,Art,2,Bachelor,Master of Education,2008-09-17,3.85,5,2024-11-01
+198,Luis,Duplantis,20,Science,6,Master,Master of Education,2011-08-16,3.35,5,2024-04-05
+199,Patricia,Whitaker,13,Art,5,Bachelor,Master of Science in Education,2000-12-16,3.79,2,2024-11-01
+200,Milagros,Harper,20,History,17,Master,Doctor of Education,2006-02-13,4.11,2,2024-04-17
+201,Alexandra,Watkins,7,Science,20,Master,Master of Science in Education,2004-02-04,3.09,1,2024-09-29
+202,Janice,Bara,9,English,20,Bachelor,Doctor of Education,2017-08-05,3.69,4,2024-04-21
+203,Erik,Casavez,16,Physical Education,25,Bachelor,Bachelor of Education,2020-12-30,3.95,5,2024-08-31
+204,Walter,Bandy,10,History,3,Bachelor,Doctor of Education,2013-02-09,3.4,5,2024-04-16
+205,Raymond,Hughes,18,English,26,Master,PhD in Education,2021-08-23,4.64,1,2024-07-31
+206,Liza,Mcmillan,13,Physical Education,9,Master,Master of Education,2000-06-17,4.3,3,2024-06-16
+207,Pamela,Lyles,8,English,2,Master,Bachelor of Education,2013-11-21,4.28,2,2024-09-12
+208,Dorothy,Geffre,20,Art,28,Bachelor,PhD in Education,2005-10-20,3.35,2,2024-05-11
+209,Joann,Morse,11,Math,29,Master,PhD in Education,2016-02-17,4.38,1,2024-09-10
+210,Daniel,Mcnair,15,English,22,PhD,Master of Education,2011-08-21,3.12,5,2024-03-10
+211,Louise,Perkins,8,Physical Education,10,PhD,Doctor of Education,2017-11-03,3.68,2,2024-11-20
+212,Sylvia,Patel,18,Science,13,PhD,Doctor of Education,2002-05-19,3.61,1,2024-03-19
+213,Taryn,Brown,1,English,19,Master,Master of Science in Education,2011-11-13,3.95,1,2024-09-13
+214,Ruben,Flowers,1,Math,2,Master,Bachelor of Education,2000-10-31,3.09,4,2024-03-02
+215,Melanie,Lobb,16,English,22,Bachelor,PhD in Education,2020-07-06,4.46,3,2024-10-27
+216,Tammy,Ball,14,History,4,PhD,PhD in Education,2007-05-05,4.78,1,2024-04-12
+217,Donald,Wissinger,16,Science,20,Master,PhD in Education,2013-10-24,4.34,1,2024-05-11
+218,Frank,Julca,9,History,7,Bachelor,Master of Arts in Teaching,2001-02-02,3.82,1,2024-09-12
+219,Edna,Dahl,1,Art,29,Bachelor,PhD in Education,2019-05-07,3.99,4,2024-06-03
+220,Catherine,Forest,7,Art,3,Master,Bachelor of Education,2003-03-11,3.76,3,2024-04-10
+221,James,Beam,2,Math,2,Master,Bachelor of Education,2021-09-09,3.33,4,2024-05-15
+222,Connie,Koziel,14,History,9,PhD,PhD in Education,2013-09-05,4.4,4,2024-08-31
+223,Barbara,Gaitor,20,Science,20,Master,Master of Education,2001-08-31,3.61,4,2024-05-04
+224,Elsie,Clark,7,History,12,PhD,Bachelor of Education,2019-11-27,4.88,1,2024-01-31
+225,Richard,Dincher,11,Art,4,Master,Doctor of Education,2003-02-12,3.72,3,2024-09-29
+226,Julia,Lakey,16,Art,2,PhD,Master of Education,2018-10-28,4.45,5,2024-09-18
+227,Lillie,Longo,9,Art,6,PhD,Master of Science in Education,2001-03-05,4.46,2,2024-10-02
+228,Chad,Shilkuski,9,English,24,Master,Bachelor of Education,2020-02-27,3.21,5,2024-12-21
+229,Thomas,Lockhart,13,Math,25,Master,Master of Science in Education,2023-11-30,4.25,2,2024-06-13
+230,Edna,Scarberry,7,Math,2,Bachelor,PhD in Education,2023-07-12,3.34,4,2024-05-11
+231,Salvatore,Larson,9,English,28,Bachelor,Master of Arts in Teaching,2003-10-11,4.88,1,2024-08-07
+232,Vera,Houston,7,English,26,PhD,Doctor of Education,2023-04-05,4.83,2,2024-03-09
+233,Patrick,Dorfman,6,Physical Education,4,PhD,Doctor of Education,2001-04-26,4.06,5,2024-12-14
+234,Kimberly,Ledoux,12,English,26,Bachelor,Master of Science in Education,2015-04-10,3.36,2,2024-02-27
+235,Harry,Davis,11,Math,12,Master,Bachelor of Education,2014-08-16,3.12,4,2024-11-10
+236,Joe,West,10,Science,17,Bachelor,Doctor of Education,2009-05-08,4.93,3,2024-08-27
+237,Gina,Eldridge,8,English,23,Master,Master of Arts in Teaching,2021-12-09,4.96,5,2024-05-10
+238,James,Lavis,1,Math,6,PhD,PhD in Education,2017-06-09,3.74,5,2024-07-11
+239,Mary,Davis,15,Art,9,PhD,Master of Science in Education,2007-03-04,3.58,3,2024-10-20
+240,Joseph,Guth,17,Physical Education,14,Master,PhD in Education,2009-06-09,3.72,4,2024-12-12
+241,Spencer,Thill,19,Art,22,Master,Bachelor of Education,2000-06-14,3.44,5,2024-11-20
+242,John,Bunning,15,History,21,Bachelor,Doctor of Education,2008-11-10,4.1,2,2024-02-25
+243,James,Paris,15,Math,27,Bachelor,Master of Education,2014-02-09,3.61,3,2024-08-12
+244,Cecilia,Russell,18,Math,14,PhD,Bachelor of Education,2019-02-02,3.68,3,2024-02-17
+245,Austin,Wayne,14,Physical Education,15,Bachelor,Master of Science in Education,2005-08-16,4.19,2,2024-08-03
+246,Lynda,Adams,7,Math,17,PhD,Doctor of Education,2013-11-10,3.52,1,2024-05-30
+247,Teresa,Brawley,4,Science,18,PhD,Master of Science in Education,2016-01-03,3.99,1,2024-10-05
+248,James,Kirkpatrick,11,History,19,PhD,Master of Education,2022-01-03,3.87,1,2024-07-10
+249,Sarah,Phelan,13,Physical Education,20,Bachelor,PhD in Education,2017-07-20,3.59,1,2024-09-27
+250,Anne,Newberry,9,History,28,Master,Master of Education,2017-01-19,4.02,2,2024-04-14
+251,Stella,Dusel,4,History,3,Master,PhD in Education,2008-08-27,3.73,4,2024-07-13
+252,Ana,Salsbury,18,English,7,Bachelor,Bachelor of Education,2010-05-21,4.41,4,2024-04-05
+253,Allen,Moya,11,Math,8,PhD,Bachelor of Education,2017-09-01,4.47,2,2024-08-13
+254,Shawn,Mcvey,6,Physical Education,19,Master,Master of Science in Education,2015-08-20,3.06,5,2024-12-13
+255,Andrea,Bates,11,English,1,Master,Bachelor of Education,2008-03-31,3.24,1,2024-09-05
+256,Yolanda,Crawford,11,Math,6,Bachelor,Bachelor of Education,2000-01-12,4.11,2,2024-05-08
+257,David,Wynn,1,English,1,Bachelor,Master of Education,2022-10-01,4.37,4,2024-04-29
+258,Carey,Bailey,1,Science,21,Master,PhD in Education,2010-05-08,4.28,1,2024-10-11
+259,Ruth,Bernhardt,15,Art,11,Master,PhD in Education,2002-02-04,4.92,2,2024-07-08
+260,Jennifer,Ryan,18,English,1,Master,Bachelor of Education,2023-12-16,4.81,3,2024-04-19
+261,Letha,Battles,11,Science,11,Bachelor,Bachelor of Education,2010-11-13,4.41,1,2024-07-31
+262,Jose,Szewczyk,15,Art,2,PhD,Bachelor of Education,2019-04-12,3.62,1,2024-10-25
+263,Albert,Bergstresser,11,English,12,Master,Doctor of Education,2017-08-01,4.91,3,2024-04-21
+264,Allyson,Brown,1,English,21,Master,PhD in Education,2014-08-26,4.21,3,2024-12-13
+265,Seth,Zappulla,18,History,9,PhD,Bachelor of Education,2003-10-23,3.87,5,2024-04-17
+266,Scott,Lively,17,Math,1,PhD,Doctor of Education,2004-07-22,4.95,5,2024-08-04
+267,Stacy,Reid,3,Math,21,PhD,Master of Education,2003-08-01,3.5,2,2024-12-25
+268,Rico,Haas,6,Science,23,PhD,Doctor of Education,2005-03-06,4.87,5,2024-02-06
+269,Robert,Whitcomb,4,English,24,PhD,Master of Science in Education,2008-09-28,4.87,5,2024-11-06
+270,Ronald,Hough,14,English,7,Bachelor,Doctor of Education,2000-02-21,3.24,3,2024-01-05
+271,Kathleen,Dismukes,8,Physical Education,24,Bachelor,Master of Education,2008-05-27,3.14,5,2024-07-07
+272,Roberto,Fisher,14,Science,2,PhD,Master of Education,2010-07-08,3.85,1,2024-02-10
+273,Karina,Mccarroll,9,Physical Education,25,Master,PhD in Education,2003-09-25,3.22,1,2024-05-06
+274,Cory,Zavala,3,Art,1,PhD,Bachelor of Education,2012-11-25,3.69,4,2024-10-27
+275,Erika,Harris,10,History,3,Bachelor,Master of Education,2022-11-14,3.95,2,2024-11-03
+276,Matthew,Theriot,4,Math,1,PhD,Master of Arts in Teaching,2012-11-04,3.52,5,2024-07-06
+277,Matthew,Mosher,11,Science,7,Bachelor,Doctor of Education,2010-08-23,3.26,1,2024-03-01
+278,Betty,Mack,6,History,29,PhD,Master of Arts in Teaching,2005-08-18,4.07,5,2024-07-03
+279,Jeffery,Levey,20,Science,21,Bachelor,Master of Science in Education,2004-06-21,4.89,4,2024-08-12
+280,Lorna,Rister,11,English,13,Master,Doctor of Education,2002-06-03,4.44,4,2024-12-02
+281,Donald,Safford,6,Math,9,Bachelor,Master of Education,2007-07-15,3.6,1,2024-05-04
+282,Justin,Delatorre,16,Art,13,Bachelor,Master of Science in Education,2009-03-12,3.57,2,2024-10-13
+283,Donald,Bailey,19,History,29,Bachelor,Doctor of Education,2012-08-26,4.38,5,2024-08-15
+284,Mary,Scudder,8,Math,23,PhD,PhD in Education,2010-04-05,3.96,1,2024-12-10
+285,Carol,Desoto,18,History,2,Bachelor,PhD in Education,2006-11-12,3.63,2,2024-05-16
+286,Rhona,Herrera,14,Physical Education,17,Master,Master of Arts in Teaching,2014-09-11,3.07,4,2024-05-13
+287,Emily,Parish,18,English,12,Bachelor,Master of Science in Education,2003-05-17,3.24,4,2024-09-25
+288,Lois,Johnson,2,Science,6,Bachelor,Doctor of Education,2009-01-28,4.85,4,2024-07-22
+289,Lorenza,Nugent,5,Math,21,Master,Master of Science in Education,2016-01-18,3.72,4,2024-02-14
+290,Alice,Christiansen,2,Physical Education,25,Bachelor,Master of Science in Education,2020-09-15,3.33,2,2024-06-12
+291,Susan,Carney,20,Physical Education,4,Master,Bachelor of Education,2004-03-09,3.76,4,2024-06-15
+292,Jennifer,Bragg,20,Art,22,PhD,Master of Science in Education,2020-01-08,3.84,5,2024-06-07
+293,Robt,Brown,11,Science,23,Master,Bachelor of Education,2002-06-17,4.82,1,2024-06-30
+294,Lynn,Sallade,16,Art,9,Bachelor,Bachelor of Education,2009-09-17,3.96,2,2024-02-22
+295,Mildred,Stecklein,19,Physical Education,16,PhD,Master of Education,2021-01-02,4.24,2,2024-05-02
+296,Chester,Lolley,12,English,7,Bachelor,Doctor of Education,2008-09-20,4.91,3,2024-08-09
+297,Kristan,Riggins,12,Physical Education,23,Bachelor,Master of Education,2004-06-19,4.72,1,2024-02-22
+298,Macy,Giron,14,Math,13,PhD,Master of Education,2021-01-17,3.77,4,2024-11-21
+299,Louise,Grande,14,Science,16,Bachelor,Master of Education,2009-11-24,3.51,1,2024-03-25
+300,Danny,Bullock,2,History,18,PhD,Bachelor of Education,2021-05-25,4.2,5,2024-06-13
+301,Sue,Denham,9,Art,14,Bachelor,Bachelor of Education,2020-05-23,3.73,2,2024-05-10
+302,Gerald,Welch,19,History,8,Bachelor,Doctor of Education,2019-01-25,4.7,5,2024-03-16
+303,Luisa,Taylor,11,Physical Education,20,PhD,Master of Arts in Teaching,2019-02-22,4.68,2,2024-11-13
+304,Ulysses,Richardson,19,Math,26,PhD,Master of Education,2001-03-10,3.55,5,2024-01-31
+305,Kyle,King,14,Science,14,PhD,Master of Education,2014-09-02,3.48,5,2024-05-25
+306,Patricia,Stacy,11,History,20,Bachelor,Master of Science in Education,2020-05-24,4.31,4,2024-06-24
+307,Howard,Rabil,7,English,8,Bachelor,Bachelor of Education,2007-12-22,3.23,5,2024-04-13
+308,Helen,Loken,19,Science,8,Master,Master of Education,2017-08-23,3.0,2,2024-06-03
+309,Cesar,Holloway,1,Art,29,Bachelor,Master of Science in Education,2011-10-30,4.22,3,2024-05-10
+310,Kayla,Mccord,16,History,12,Master,PhD in Education,2003-03-11,4.27,1,2024-01-20
+311,Elizabeth,Crook,14,History,3,PhD,PhD in Education,2012-07-28,3.27,5,2024-02-07
+312,Judith,Dixon,15,English,23,Master,Doctor of Education,2002-07-22,4.03,2,2024-06-21
+313,Troy,Castaneda,15,English,25,Master,Bachelor of Education,2017-03-12,3.47,3,2024-02-13
+314,Daren,Bustos,11,Art,23,Bachelor,PhD in Education,2019-06-25,3.94,5,2024-07-27
+315,Eric,Ness,10,Science,15,Master,Master of Science in Education,2007-08-08,4.25,2,2024-12-30
+316,James,Schwass,7,Physical Education,27,Bachelor,Bachelor of Education,2004-10-17,3.71,3,2024-03-13
+317,Maggie,Nielsen,2,History,8,Master,Bachelor of Education,2020-05-03,4.82,4,2024-03-06
+318,Steven,Salas,9,Art,12,Bachelor,PhD in Education,2013-03-10,3.07,2,2024-03-30
+319,Beth,Agnello,20,Science,8,Bachelor,Master of Arts in Teaching,2013-09-21,3.43,4,2024-09-03
+320,Vida,Gonzalez,19,English,12,Bachelor,Bachelor of Education,2005-06-05,4.72,3,2024-07-24
+321,Margaret,Jeffers,14,Physical Education,5,Bachelor,Master of Education,2007-03-26,3.88,5,2024-02-02
+322,Mary,Mabe,7,Math,11,Bachelor,Master of Education,2015-06-30,3.38,3,2024-08-29
+323,Trina,Bailey,15,Science,24,PhD,PhD in Education,2000-10-16,4.35,4,2024-11-02
+324,Nellie,Young,17,Math,1,Master,Master of Science in Education,2007-07-22,3.18,2,2024-03-08
+325,Sandra,Hilgert,10,English,29,Master,Master of Education,2013-06-29,3.72,2,2024-09-22
+326,Roger,Smith,10,Math,14,Master,Master of Education,2017-07-14,4.21,2,2024-03-26
+327,Peter,Darlington,20,History,4,Bachelor,Master of Science in Education,2012-11-06,4.52,3,2024-08-18
+328,Cheryl,Wilton,2,Science,26,PhD,Master of Education,2010-11-19,3.48,1,2024-01-13
+329,Lana,Riley,13,Science,16,PhD,Doctor of Education,2022-08-15,4.92,1,2024-10-18
+330,Jacqueline,Bowers,5,History,13,Master,Master of Science in Education,2015-01-31,3.85,4,2024-09-09
+331,Geraldine,Greer,6,Physical Education,8,PhD,Bachelor of Education,2013-12-26,4.59,3,2024-02-28
+332,Michael,Davis,20,English,24,Master,Master of Arts in Teaching,2011-01-17,3.19,1,2024-11-15
+333,Carl,Miller,16,Art,23,Master,Master of Education,2002-05-13,4.21,4,2024-11-21
+334,Juan,Redd,8,Physical Education,23,Bachelor,PhD in Education,2023-01-22,3.16,5,2024-11-18
+335,Douglas,Cabrera,12,Art,18,Bachelor,PhD in Education,2016-07-11,3.53,1,2024-08-26
+336,David,Christian,20,English,16,Bachelor,Master of Arts in Teaching,2011-12-31,4.53,2,2024-01-05
+337,Dwight,Mangan,13,Art,26,Master,PhD in Education,2011-04-05,4.39,3,2024-02-09
+338,Linda,Blanchard,16,Physical Education,20,PhD,Bachelor of Education,2012-04-19,4.7,2,2024-10-28
+339,Christine,Holton,2,Art,5,Master,PhD in Education,2011-05-01,3.64,1,2024-03-23
+340,Lisa,Miller,9,Art,23,Master,Master of Arts in Teaching,2019-05-20,3.74,1,2024-05-24
+341,Darrell,Horne,20,Physical Education,7,Master,Doctor of Education,2014-09-11,4.26,5,2024-03-06
+342,Guadalupe,Mcgowan,20,English,16,PhD,Master of Science in Education,2012-09-20,4.75,2,2024-07-26
+343,Yolanda,Crook,7,Math,23,Master,Doctor of Education,2012-01-25,3.93,1,2024-11-07
+344,Rocco,Bernier,3,Math,3,PhD,PhD in Education,2015-07-30,3.82,4,2024-04-09
+345,Beulah,Ensley,9,Art,15,PhD,Doctor of Education,2014-01-14,4.33,4,2024-04-28
+346,Christopher,Guss,15,Science,11,PhD,Master of Education,2007-04-11,4.22,1,2024-09-27
+347,Joe,Ayala,1,English,22,Master,Doctor of Education,2009-10-06,3.14,5,2024-01-12
+348,Linda,Gardner,19,Math,5,PhD,Doctor of Education,2020-09-01,3.4,3,2024-09-07
+349,Russell,Wilson,7,English,21,PhD,Bachelor of Education,2014-02-23,4.51,2,2024-07-18
+350,Verna,Olives,16,Physical Education,14,Master,Master of Science in Education,2023-11-16,3.53,3,2024-02-20
+351,Robert,Mapston,6,Physical Education,12,Bachelor,Doctor of Education,2009-11-30,3.12,4,2024-07-29
+352,Ronald,Meyer,5,Art,11,Master,Doctor of Education,2012-05-13,3.94,1,2024-08-03
+353,Glenda,Kamaka,7,Science,9,Bachelor,Master of Education,2002-06-23,3.36,1,2024-10-31
+354,Sean,Williams,20,Physical Education,8,PhD,PhD in Education,2019-05-10,3.75,5,2024-12-23
+355,Maybell,Hurd,12,Physical Education,27,Bachelor,Master of Science in Education,2005-02-26,4.37,3,2024-08-26
+356,Jermaine,Wells,15,Art,28,Master,Doctor of Education,2006-07-28,3.95,4,2024-10-16
+357,Anthony,Bowie,1,Math,10,Bachelor,Master of Arts in Teaching,2005-05-01,4.68,1,2024-06-18
+358,Valentina,Vines,16,Art,26,PhD,Doctor of Education,2019-02-13,3.37,2,2024-03-24
+359,Adrian,Hawkes,10,English,19,PhD,PhD in Education,2019-04-12,4.23,2,2024-02-11
+360,Courtney,Scharf,10,Science,12,PhD,Bachelor of Education,2021-04-09,4.64,5,2024-09-16
+361,Jennifer,Brennan,14,English,9,PhD,Master of Science in Education,2009-07-12,4.32,3,2024-02-22
+362,Jose,Vanderpool,13,Science,2,Bachelor,Master of Science in Education,2002-04-28,3.79,4,2024-02-08
+363,Melanie,Pollard,5,History,15,Bachelor,Doctor of Education,2021-05-11,4.54,4,2024-12-30
+364,Ruby,Jordan,11,Art,26,Master,Master of Education,2005-10-10,3.76,4,2024-07-13
+365,Sophia,Larkin,19,Math,12,Master,Master of Science in Education,2015-09-01,3.92,2,2024-11-22
+366,Raymond,Hanners,13,History,3,Master,Master of Education,2006-01-02,4.14,4,2024-10-06
+367,Loan,Bradshaw,4,Art,1,Master,Master of Arts in Teaching,2019-09-25,4.23,3,2024-08-26
+368,Heather,Finn,17,Art,17,Master,Bachelor of Education,2002-08-24,4.76,5,2024-12-04
+369,Bruce,Talbot,1,Math,9,Master,Master of Arts in Teaching,2019-10-16,4.62,5,2024-06-14
+370,Jennifer,Hoggatt,4,Science,14,Master,Bachelor of Education,2006-02-21,4.16,2,2024-09-12
+371,Isabel,Vogt,17,English,22,Bachelor,PhD in Education,2019-08-04,4.69,5,2024-01-23
+372,William,Schuman,9,Physical Education,14,Master,Master of Science in Education,2014-10-03,4.59,3,2024-11-15
+373,Lisa,Higgins,12,Art,12,Bachelor,Master of Arts in Teaching,2007-11-20,3.58,3,2024-03-25
+374,Jamal,Taggert,17,Math,11,Bachelor,Master of Arts in Teaching,2023-02-06,4.93,5,2024-12-24
+375,John,Ocampo,13,English,16,Master,Master of Arts in Teaching,2010-12-21,3.53,5,2024-11-28
+376,Raymond,Braden,8,English,3,Master,Bachelor of Education,2008-08-03,4.84,3,2024-07-06
+377,Melba,Hickman,19,History,26,PhD,Master of Arts in Teaching,2013-11-13,3.99,1,2024-02-09
+378,Devin,Burton,17,Art,6,Bachelor,Bachelor of Education,2019-01-26,4.8,4,2024-12-26
+379,Karl,Fuchs,3,Physical Education,16,Bachelor,PhD in Education,2005-05-21,4.72,1,2024-09-19
+380,Martha,Shaw,1,History,13,Master,Master of Education,2000-03-22,4.12,4,2024-07-17
+381,Milo,Wells,14,Math,5,Master,Master of Education,2020-05-13,3.91,2,2024-09-21
+382,Joshua,Ali,17,Physical Education,21,PhD,Doctor of Education,2005-06-25,3.39,2,2024-12-12
+383,Judy,Garcia,13,Math,7,PhD,PhD in Education,2000-08-14,3.32,4,2024-04-09
+384,Kristin,Goble,18,Math,6,Master,PhD in Education,2020-04-16,3.27,5,2024-02-10
+385,Bradley,Mcabee,18,Art,13,Master,PhD in Education,2001-02-03,4.4,4,2024-07-14
+386,Lori,Morrow,12,Math,10,Bachelor,Master of Arts in Teaching,2017-04-13,4.42,3,2024-12-02
+387,Frank,Wraight,5,Art,17,PhD,Master of Education,2010-01-07,4.16,3,2024-01-16
+388,Cynthia,Mcthay,10,Science,20,Master,Master of Education,2004-04-09,3.82,4,2024-09-29
+389,Nita,Berry,2,Science,22,PhD,Doctor of Education,2007-08-24,4.88,2,2024-01-13
+390,Larry,Green,3,Math,25,PhD,Master of Education,2008-01-01,4.84,3,2024-10-08
+391,Dorothy,Rendon,4,Art,12,PhD,PhD in Education,2001-11-13,4.22,3,2024-10-20
+392,John,Nesbitt,1,Math,18,PhD,Bachelor of Education,2006-02-23,4.39,5,2024-01-23
+393,Audrey,Kearns,6,Science,27,Master,Doctor of Education,2023-02-21,4.71,3,2024-04-02
+394,Edward,Marino,20,Science,24,Bachelor,Master of Education,2023-08-19,3.67,5,2024-07-04
+395,Beverly,Baldwin,20,History,27,PhD,Doctor of Education,2002-10-09,4.72,3,2024-07-22
+396,Cynthia,Yamada,4,Math,13,Master,Master of Education,2019-01-27,3.83,4,2024-04-07
+397,Joseph,Brock,11,Math,12,PhD,Master of Education,2021-08-19,3.94,5,2024-09-26
+398,Nicholas,Boggs,18,Math,26,Master,Bachelor of Education,2010-05-11,4.27,5,2024-10-21
+399,Raymond,Campbell,1,English,19,Bachelor,Master of Science in Education,2009-09-05,4.5,1,2024-12-19
+400,Valerie,Willis,8,Physical Education,1,PhD,PhD in Education,2009-02-24,3.54,2,2024-07-10
+401,David,Callahan,9,Math,28,Bachelor,Master of Arts in Teaching,2019-07-25,3.89,3,2024-04-28
+402,Mark,Willis,8,Science,9,PhD,Bachelor of Education,2006-04-09,4.5,4,2024-08-28
+403,Leland,Mettig,10,English,7,PhD,PhD in Education,2002-11-11,3.57,4,2024-01-30
+404,Alfred,Parks,6,History,12,Bachelor,Master of Arts in Teaching,2004-12-28,3.89,2,2024-01-27
+405,Justin,Nelson,5,History,19,Bachelor,Bachelor of Education,2007-12-13,4.23,4,2024-11-04
+406,Jeffrey,Neuhoff,12,Art,27,PhD,Bachelor of Education,2019-01-02,3.95,2,2024-11-26
+407,Abdul,Jacques,13,Physical Education,29,Bachelor,Doctor of Education,2017-10-04,3.45,1,2024-12-06
+408,Maria,Dibble,11,Science,23,PhD,Master of Science in Education,2013-06-03,3.34,3,2024-07-09
+409,Gale,Wilson,14,English,12,Bachelor,Master of Education,2011-11-21,3.06,3,2024-10-01
+410,Tasha,Bramlett,13,Physical Education,28,Bachelor,Master of Science in Education,2019-12-28,3.1,4,2024-04-17
+411,Samantha,Swann,12,Art,7,Bachelor,Master of Arts in Teaching,2010-10-06,4.04,5,2024-10-12
+412,Lois,Mcelwee,9,Science,18,PhD,PhD in Education,2013-02-01,3.78,3,2024-10-20
+413,Jesus,Economou,8,History,17,Master,Master of Science in Education,2010-03-14,3.93,4,2024-01-17
+414,Mikel,Fair,11,Art,2,Bachelor,Master of Education,2016-03-05,3.1,4,2024-09-01
+415,Don,Regalado,14,Science,8,Master,Master of Education,2003-08-21,3.84,5,2024-01-19
+416,Joseph,Githens,15,Physical Education,3,PhD,Bachelor of Education,2011-10-08,4.1,1,2024-07-02
+417,Joseph,Heard,5,Art,22,Bachelor,Master of Arts in Teaching,2015-03-15,4.68,5,2024-08-05
+418,Aron,Barbee,16,Art,26,Bachelor,Master of Science in Education,2003-08-30,4.72,1,2024-04-12
+419,Linda,Phillips,3,Science,26,Bachelor,PhD in Education,2014-10-13,3.0,3,2024-06-03
+420,Jose,Foret,18,Art,23,Master,Master of Education,2004-11-15,3.3,4,2024-02-07
+421,James,Pierce,6,English,8,Master,Bachelor of Education,2021-06-05,4.91,4,2024-12-20
+422,Rudolph,Root,14,Science,1,Bachelor,PhD in Education,2000-07-25,3.74,5,2024-04-06
+423,Richard,Bachand,3,History,7,Master,Master of Education,2000-07-02,4.9,2,2024-06-13
+424,John,Denney,3,English,14,PhD,Doctor of Education,2016-04-05,3.28,5,2024-08-07
+425,Antonio,Zalewski,20,English,15,Master,Master of Science in Education,2017-08-14,3.22,5,2024-03-05
+426,John,Lanz,6,English,15,Master,Bachelor of Education,2013-07-10,3.53,3,2024-04-21
+427,Mark,Rouse,10,Art,23,Bachelor,PhD in Education,2015-02-02,4.73,3,2024-05-16
+428,James,Stott,11,Physical Education,26,PhD,Bachelor of Education,2007-11-21,3.78,2,2024-09-04
+429,Claudio,Clowes,6,Art,23,Master,PhD in Education,2005-11-28,4.13,2,2024-10-15
+430,Curtis,Driver,4,History,12,Bachelor,Master of Education,2014-11-18,3.47,2,2024-12-15
+431,Daniel,Hobby,2,English,1,Master,Bachelor of Education,2013-01-09,4.02,3,2024-05-17
+432,Joseph,Perez,15,Physical Education,25,Bachelor,Bachelor of Education,2004-09-22,4.11,3,2024-05-29
+433,Denise,Ensminger,1,Math,18,Master,Bachelor of Education,2003-02-19,4.29,2,2024-01-17
+434,Suzanne,Rangel,9,History,24,Bachelor,Bachelor of Education,2015-02-07,4.02,2,2024-10-23
+435,Sara,Davis,12,History,26,Bachelor,Master of Education,2009-12-01,3.45,3,2024-04-24
+436,Brenda,Barnes,13,Math,18,Bachelor,Master of Science in Education,2011-01-13,4.32,3,2024-05-09
+437,Craig,Iannotti,13,Physical Education,20,Master,PhD in Education,2016-12-19,3.74,4,2024-08-18
+438,Ruth,Mcdonald,16,Math,1,Master,Master of Arts in Teaching,2005-07-15,4.91,2,2024-09-01
+439,Todd,Lawton,2,Art,1,PhD,Master of Education,2009-03-19,3.86,2,2024-02-02
+440,Lori,Patterson,14,Science,13,Master,PhD in Education,2020-09-24,3.15,1,2024-08-20
+441,Loretta,Rubino,17,Physical Education,22,PhD,Master of Arts in Teaching,2014-11-30,4.91,5,2024-12-26
+442,Joseph,Smalls,20,Art,25,Bachelor,Doctor of Education,2020-04-08,3.76,5,2024-06-05
+443,Everett,Tyer,5,English,6,PhD,Doctor of Education,2008-07-08,4.72,2,2024-02-26
+444,Diana,Lower,16,History,6,PhD,Master of Education,2009-06-11,3.21,5,2024-08-29
+445,Homer,Dover,10,Physical Education,1,PhD,Master of Science in Education,2006-02-18,4.38,2,2024-09-10
+446,Doris,Flynn,9,History,23,PhD,Master of Education,2001-05-20,4.91,4,2024-10-10
+447,Michael,Miller,11,Math,5,PhD,Master of Education,2017-03-11,4.26,3,2024-06-24
+448,Jackie,Ham,13,Physical Education,11,Master,Master of Education,2014-07-08,4.05,4,2024-07-15
+449,Audrea,Neff,7,Math,20,Bachelor,Master of Education,2008-05-05,3.28,3,2024-06-01
+450,Megan,Bailey,17,History,11,PhD,Master of Arts in Teaching,2000-10-17,3.39,1,2024-03-05
+451,Monica,Juckett,5,Art,9,Master,PhD in Education,2020-11-23,4.55,3,2024-05-31
+452,Thomas,Zenger,8,Art,3,Bachelor,Master of Arts in Teaching,2009-03-24,3.78,3,2024-01-18
+453,Sonny,Curley,16,Math,24,PhD,Master of Education,2014-12-20,4.59,2,2024-10-19
+454,Leticia,Pults,16,Math,19,PhD,Bachelor of Education,2019-06-07,3.92,2,2024-10-17
+455,Jonathan,Fenn,4,Art,20,Master,PhD in Education,2007-05-15,3.65,5,2024-06-29
+456,Dennis,Swoager,8,Math,26,Bachelor,PhD in Education,2019-09-15,4.67,1,2024-06-29
+457,Charlotte,Brown,12,Art,26,Master,Bachelor of Education,2020-08-12,4.23,1,2024-11-07
+458,Rose,Yost,8,Math,12,PhD,Master of Education,2000-11-11,4.21,4,2024-01-02
+459,Andrew,Cunningham,14,English,19,Master,Bachelor of Education,2022-05-26,3.4,5,2024-01-30
+460,Lindsey,Riley,10,English,14,PhD,Master of Arts in Teaching,2022-04-16,4.46,4,2024-04-27
+461,Scott,Thompson,18,History,14,Master,Master of Science in Education,2007-02-04,3.8,3,2024-04-13
+462,Tanner,Shinabery,18,History,26,Bachelor,Master of Education,2005-10-04,4.43,4,2024-07-17
+463,Alice,Ruth,5,Science,8,Bachelor,Master of Arts in Teaching,2000-11-15,3.39,4,2024-11-15
+464,Victor,Simpson,5,Math,20,Master,Doctor of Education,2016-03-05,4.78,5,2024-09-02
+465,Joseph,Cruz,3,Art,2,PhD,Master of Arts in Teaching,2000-05-01,4.8,4,2024-07-09
+466,Stanley,Milosevic,12,Art,11,Bachelor,Doctor of Education,2015-09-17,4.88,4,2024-07-06
+467,Marva,Boutte,2,Physical Education,28,PhD,Master of Arts in Teaching,2016-04-09,4.59,1,2024-05-26
+468,Antoinette,Ceja,5,History,27,Bachelor,Master of Science in Education,2011-10-21,4.54,1,2024-09-02
+469,Duane,Valentine,19,English,20,Master,Master of Arts in Teaching,2014-02-09,3.03,2,2024-11-24
+470,Shane,Justice,12,English,6,Bachelor,Master of Education,2015-06-19,3.97,2,2024-02-03
+471,Jose,Laud,18,English,26,Master,PhD in Education,2017-06-07,4.96,5,2024-11-13
+472,Fannie,Watkins,2,English,29,Master,Doctor of Education,2015-08-12,3.71,2,2024-02-27
+473,Jeffrey,Allen,17,History,29,Bachelor,Doctor of Education,2011-11-20,4.83,2,2024-09-19
+474,Neal,Mccormick,15,Art,8,PhD,Master of Education,2000-10-26,4.4,2,2024-06-20
+475,Susan,Warren,19,English,22,PhD,Master of Education,2010-12-27,3.05,2,2024-09-10
+476,Nancy,Tull,18,Math,17,Bachelor,Bachelor of Education,2019-07-02,4.37,1,2024-01-05
+477,Chauncey,Ennis,5,Science,2,PhD,Doctor of Education,2006-01-29,4.7,3,2024-09-22
+478,Mary,Lopez,7,English,4,Bachelor,Master of Science in Education,2020-12-30,3.12,2,2024-12-08
+479,Jim,Curtis,17,Math,16,Master,Master of Arts in Teaching,2018-03-15,3.17,1,2024-05-09
+480,Sophia,Cyphers,5,Physical Education,7,PhD,Master of Arts in Teaching,2006-03-30,3.41,5,2024-11-09
+481,William,Ramires,8,Physical Education,11,PhD,Master of Arts in Teaching,2006-09-08,4.99,2,2024-11-24
+482,Mary,Clairmont,9,Science,2,PhD,Master of Education,2017-09-01,3.9,5,2024-11-06
+483,Andre,Weatherford,11,English,11,Master,Master of Science in Education,2012-10-04,3.14,5,2024-04-27
+484,Mary,Mccormick,19,Physical Education,13,PhD,Master of Education,2022-05-09,4.25,5,2024-12-16
+485,Daniel,Marchan,15,Science,7,PhD,PhD in Education,2007-04-12,4.85,3,2024-10-30
+486,Andrea,Becker,11,English,13,PhD,Master of Arts in Teaching,2006-12-01,3.56,4,2024-02-12
+487,Michael,Ortiz,17,Science,6,Bachelor,Bachelor of Education,2014-08-23,4.4,5,2024-07-20
+488,Mary,Caudill,9,English,19,Bachelor,Master of Arts in Teaching,2020-03-16,3.74,1,2024-12-05
+489,Dan,Stilson,15,History,10,Bachelor,Master of Education,2021-09-12,3.03,1,2024-01-04
+490,Martha,Crittenden,15,Art,19,PhD,Master of Arts in Teaching,2005-08-03,3.46,5,2024-10-12
+491,Christopher,Malcolm,9,English,4,Master,Master of Education,2015-06-17,3.73,3,2024-08-17
+492,William,Wells,10,Math,13,PhD,PhD in Education,2009-10-26,4.6,2,2024-09-10
+493,Natalie,Coffin,20,Math,17,PhD,PhD in Education,2015-06-29,3.19,5,2024-03-26
+494,Betty,Sellers,4,English,19,Master,PhD in Education,2021-12-22,4.59,2,2024-09-08
+495,Grace,Weeks,4,Math,1,Master,PhD in Education,2021-01-21,4.91,1,2024-05-28
+496,James,Robinson,18,Math,10,Master,Master of Science in Education,2022-11-05,4.11,5,2024-02-26
+497,Louise,Merklein,18,History,29,Bachelor,Doctor of Education,2000-08-24,4.35,1,2024-07-10
+498,Marion,Millard,14,History,7,Master,PhD in Education,2014-02-02,4.8,1,2024-04-18
+499,Nancy,Henry,1,Physical Education,4,PhD,Master of Science in Education,2016-07-10,3.73,5,2024-11-14
+500,Todd,Tilghman,4,Art,18,PhD,Master of Science in Education,2015-02-04,3.62,1,2024-02-25
+501,Matthew,Perry,8,Physical Education,15,Bachelor,Doctor of Education,2012-09-15,4.18,3,2024-02-24
+502,Clara,Franklin,2,Math,24,PhD,Master of Arts in Teaching,2003-02-20,4.31,4,2024-10-02
+503,Anne,Cannon,3,Physical Education,8,Bachelor,Master of Arts in Teaching,2015-10-20,3.07,1,2024-09-10
+504,Vernice,Hicks,20,Science,6,Master,PhD in Education,2008-07-28,4.1,3,2024-12-23
+505,Jeffrey,Schultz,15,History,13,PhD,Master of Science in Education,2006-07-02,4.04,2,2024-06-17
+506,Millie,Peak,9,Math,15,PhD,Doctor of Education,2007-10-09,3.08,5,2024-04-23
+507,Rosemary,Parton,1,History,27,Bachelor,PhD in Education,2012-02-17,3.74,5,2024-11-04
+508,Vicente,Petitt,18,Math,11,PhD,Master of Education,2001-04-02,4.09,3,2024-03-28
+509,Leslie,Mcfadden,17,English,16,Master,Master of Science in Education,2012-10-19,3.93,1,2024-05-29
+510,Martha,Faulkner,15,Science,28,Master,Doctor of Education,2017-09-19,3.65,2,2024-01-03
+511,Ruth,Kohler,3,History,11,Master,Master of Education,2009-06-18,4.78,4,2024-07-02
+512,Kristie,Corey,14,History,29,PhD,Master of Science in Education,2008-08-26,3.21,4,2024-10-13
+513,Cesar,Winkler,11,Art,15,Bachelor,Bachelor of Education,2002-09-18,3.5,2,2024-03-01
+514,James,Perez,19,Physical Education,9,Master,Master of Arts in Teaching,2021-11-03,4.9,3,2024-03-08
+515,Matthew,Esposito,3,Physical Education,3,Master,Master of Science in Education,2019-08-04,4.48,3,2024-07-19
+516,Maria,Hornak,9,English,22,PhD,Master of Education,2014-11-25,4.9,5,2024-05-23
+517,Virginia,Williams,18,English,28,Master,Doctor of Education,2008-08-15,4.34,4,2024-10-02
+518,Steve,Hilse,1,Math,11,PhD,Master of Science in Education,2015-02-11,4.59,3,2024-08-17
+519,Catherine,Kilberg,6,History,16,Master,Master of Science in Education,2002-07-21,3.85,2,2024-02-03
+520,Katrina,Slater,20,Science,7,Bachelor,Master of Education,2009-01-10,4.46,4,2024-03-14
+521,Cynthia,Mistrot,13,History,29,Bachelor,PhD in Education,2011-04-07,3.2,2,2024-09-08
+522,Dale,Espinosa,11,English,23,PhD,Bachelor of Education,2022-04-06,4.94,5,2024-01-27
+523,John,Powell,18,English,26,PhD,Master of Arts in Teaching,2016-05-29,4.71,5,2024-01-21
+524,Mary,Hubbard,20,History,23,Bachelor,Master of Arts in Teaching,2004-09-26,4.33,4,2024-05-04
+525,Harold,Teague,20,Math,2,Master,Bachelor of Education,2017-03-15,4.61,2,2024-04-26
+526,Linda,Kilgore,16,Physical Education,28,Bachelor,Master of Education,2006-12-28,3.91,2,2024-01-09
+527,Jessica,Ritchie,13,History,10,PhD,Doctor of Education,2001-03-10,4.37,4,2024-09-07
+528,Alexander,Peng,11,History,8,PhD,Master of Arts in Teaching,2010-01-31,3.66,4,2024-02-15
+529,Molly,Hughes,10,English,25,Master,Bachelor of Education,2016-01-04,3.22,4,2024-12-29
+530,Oscar,Hemmen,9,Science,13,Bachelor,PhD in Education,2000-10-09,3.13,4,2024-05-27
+531,James,Odell,3,Physical Education,6,Bachelor,Master of Education,2018-06-06,4.55,4,2024-04-23
+532,Leslie,Castillo,5,Art,3,Master,Master of Education,2011-09-09,3.44,5,2024-03-17
+533,Carla,Cole,6,Physical Education,27,PhD,Master of Arts in Teaching,2020-03-16,4.88,2,2024-12-30
+534,Jillian,Chaney,19,History,12,Bachelor,Bachelor of Education,2011-06-07,3.37,5,2024-05-18
+535,Becky,Muilenburg,13,Art,18,PhD,PhD in Education,2013-10-07,4.93,1,2024-06-12
+536,Sarah,Goard,5,Physical Education,11,PhD,Doctor of Education,2003-03-24,3.62,1,2024-05-23
+537,Edward,Daum,18,History,26,Master,Master of Science in Education,2023-04-16,3.77,1,2024-04-19
+538,Cynthia,Myles,2,Art,23,Bachelor,PhD in Education,2006-09-04,4.64,5,2024-12-23
+539,Caroline,Godeaux,14,Physical Education,9,Bachelor,PhD in Education,2012-10-23,3.52,4,2024-08-25
+540,Jessica,Calvillo,3,Art,2,Bachelor,Doctor of Education,2011-11-26,3.86,3,2024-06-14
+541,Lucas,Kelley,12,Math,14,PhD,Bachelor of Education,2022-08-28,3.95,2,2024-09-07
+542,Debora,Jones,15,Math,16,PhD,Bachelor of Education,2011-02-22,3.33,2,2024-02-05
+543,Dennis,Swedenburg,12,Art,14,Bachelor,PhD in Education,2004-01-20,3.9,1,2024-07-31
+544,Gary,Russell,6,Art,12,Bachelor,Master of Education,2019-08-10,3.47,1,2024-06-22
+545,Larry,Wilson,13,Science,29,Bachelor,Master of Education,2022-11-27,4.27,3,2024-08-09
+546,Norma,Redwine,5,Physical Education,20,Master,PhD in Education,2008-04-22,3.94,4,2024-08-13
+547,Jennifer,Holland,11,Physical Education,17,Bachelor,Master of Arts in Teaching,2013-09-18,4.99,1,2024-03-21
+548,Jessie,Morton,6,Physical Education,4,PhD,Bachelor of Education,2008-12-22,4.9,4,2024-07-16
+549,Mike,Puckett,14,Art,15,PhD,Master of Arts in Teaching,2016-01-07,4.32,1,2024-01-25
+550,Rose,Jardine,4,English,16,PhD,Master of Education,2006-06-14,4.37,3,2024-06-23
+551,Diane,Berube,18,Art,6,Bachelor,Master of Science in Education,2000-08-28,4.04,3,2024-03-23
+552,Irvin,Gray,6,Math,21,Bachelor,Doctor of Education,2012-09-07,3.7,4,2024-04-23
+553,Kiera,Garcia,10,Art,1,Master,Bachelor of Education,2013-10-21,4.63,1,2024-08-11
+554,Lonnie,Dickson,12,English,24,Bachelor,Doctor of Education,2016-01-30,4.04,3,2024-01-25
+555,Martin,Thornton,10,Science,20,PhD,Bachelor of Education,2023-10-03,3.83,4,2024-01-23
+556,Teresa,Escobar,2,Art,12,Master,Bachelor of Education,2001-03-19,3.05,3,2024-01-08
+557,Kathryn,Riso,11,Math,10,Master,Bachelor of Education,2013-10-28,4.65,4,2024-10-07
+558,Joy,Smith,3,History,22,Bachelor,Master of Education,2005-07-31,4.43,3,2024-03-13
+559,Roger,Thompson,7,Science,25,Bachelor,Master of Arts in Teaching,2017-01-15,4.39,1,2024-01-19
+560,Maxine,Harper,11,Physical Education,14,PhD,Doctor of Education,2005-12-07,4.67,4,2024-03-30
+561,Natalie,Clarkson,16,English,12,Bachelor,Master of Education,2002-08-03,4.95,2,2024-01-19
+562,Albert,Dorton,14,Math,8,Bachelor,Master of Education,2020-01-18,3.06,4,2024-02-23
+563,Lester,Borek,20,Physical Education,4,Master,Master of Arts in Teaching,2018-07-10,4.32,2,2024-05-14
+564,Clay,Garza,2,Science,21,PhD,PhD in Education,2021-10-12,3.65,5,2024-10-04
+565,Adan,Rodriguez,10,Art,25,Bachelor,Doctor of Education,2017-08-03,4.98,5,2024-10-07
+566,Amy,Lloyd,8,Science,25,PhD,Master of Science in Education,2004-08-07,4.58,3,2024-08-26
+567,Michael,Nine,14,Art,9,Bachelor,Master of Arts in Teaching,2004-07-01,4.86,5,2024-04-25
+568,Dennis,Factor,14,Science,17,PhD,Master of Science in Education,2011-02-03,4.22,5,2024-02-16
+569,Rosalyn,Mayfield,9,Science,22,PhD,Bachelor of Education,2009-10-16,3.91,5,2024-06-11
+570,Walter,Gist,2,English,21,PhD,Master of Education,2004-08-31,4.17,3,2024-03-11
+571,Maegan,Matteucci,17,History,7,Master,Master of Arts in Teaching,2015-05-06,4.69,3,2024-01-25
+572,Debrah,Mckay,17,English,28,PhD,Doctor of Education,2013-09-21,3.59,2,2024-01-18
+573,Maurice,Bond,17,English,13,Bachelor,Master of Arts in Teaching,2017-07-20,3.97,4,2024-08-19
+574,Jack,Summers,5,Physical Education,7,Master,PhD in Education,2006-08-31,4.14,3,2024-10-10
+575,Robert,Mccalley,8,Physical Education,25,PhD,Master of Science in Education,2004-05-24,4.12,3,2024-12-29
+576,Teresa,Fouts,1,English,20,PhD,Bachelor of Education,2003-01-11,3.77,1,2024-02-15
+577,Katie,Gliem,8,English,19,PhD,Master of Education,2013-09-04,4.45,4,2024-07-19
+578,Benjamin,Jones,12,Science,3,Master,Master of Science in Education,2004-11-19,4.63,4,2024-02-04
+579,Michael,Kilpatrick,9,Math,7,PhD,Master of Science in Education,2005-05-21,4.46,1,2024-04-23
+580,Shirly,Solis,16,Physical Education,10,Master,Master of Science in Education,2010-05-01,3.96,5,2024-02-27
+581,Melvin,Miles,7,Art,24,Bachelor,Master of Education,2000-11-19,4.04,1,2024-05-12
+582,Erin,Vansice,7,Math,9,Bachelor,Bachelor of Education,2007-12-02,4.42,3,2024-04-27
+583,Joseph,Marks,8,History,4,PhD,Master of Education,2012-02-06,4.15,1,2024-02-17
+584,Cynthia,Camacho,11,Art,13,PhD,Doctor of Education,2003-06-01,3.96,2,2024-05-28
+585,Luz,Hanson,6,Science,7,Bachelor,Master of Education,2010-10-27,3.46,2,2024-08-09
+586,Karen,Rissell,4,Science,11,Bachelor,Master of Science in Education,2004-03-09,4.1,1,2024-02-12
+587,John,Kraft,8,English,22,Bachelor,Master of Education,2008-02-24,4.63,3,2024-09-29
+588,Marcus,Gonzalez,1,English,12,Master,Master of Education,2008-04-26,3.63,3,2024-07-01
+589,Jeremy,Ivy,17,English,10,Bachelor,Master of Science in Education,2023-12-16,4.44,3,2024-11-07
+590,Gene,Battle,20,Art,5,Bachelor,Doctor of Education,2012-08-21,3.14,1,2024-03-04
+591,Glen,Sider,14,Science,27,Master,Master of Education,2015-08-08,4.01,5,2024-01-03
+592,Clarence,Mester,15,Art,3,PhD,Master of Science in Education,2003-09-20,3.22,1,2024-06-11
+593,Lloyd,Shea,16,English,17,PhD,Master of Science in Education,2011-01-05,3.64,2,2024-04-07
+594,Lauren,Weibe,6,Physical Education,6,PhD,Bachelor of Education,2018-10-23,4.13,4,2024-10-17
+595,Lawrence,Brown,9,Physical Education,12,Bachelor,Master of Science in Education,2013-05-08,4.45,2,2024-07-19
+596,Cordelia,Custodio,4,Art,7,Bachelor,Master of Education,2016-09-02,4.92,2,2024-08-23
+597,Marty,Saetern,11,Science,6,PhD,Doctor of Education,2012-06-13,4.02,5,2024-12-06
+598,Katherine,Bogle,2,Math,20,Master,Doctor of Education,2005-07-22,4.68,4,2024-11-21
+599,Darren,Youngman,15,Physical Education,13,Bachelor,Master of Education,2000-09-18,4.35,2,2024-02-20
+600,Margaret,Moore,20,English,3,Master,PhD in Education,2003-07-13,4.31,3,2024-07-10
+601,Raul,Kidd,14,Art,21,Master,Master of Science in Education,2022-03-05,3.66,1,2024-03-11
+602,Leonora,Hertler,7,Math,18,Bachelor,Doctor of Education,2010-11-06,4.77,2,2024-07-27
+603,Robert,Shelton,8,Math,17,Bachelor,Master of Science in Education,2022-07-27,3.37,1,2024-01-08
+604,Rebecca,Baker,2,History,7,PhD,Master of Science in Education,2020-08-22,3.1,1,2024-02-05
+605,Robert,Chavez,1,Art,24,Master,Master of Education,2019-05-22,4.01,2,2024-05-04
+606,Rima,Humphrey,9,Science,13,Bachelor,Master of Science in Education,2022-02-17,3.61,5,2024-09-26
+607,Kristin,Hazelhurst,2,Math,7,Master,Master of Science in Education,2008-01-07,4.01,1,2024-08-04
+608,William,Reilly,5,Physical Education,14,Bachelor,Master of Arts in Teaching,2008-06-26,3.31,5,2024-03-30
+609,Kimberly,Jackson,18,History,5,PhD,Master of Arts in Teaching,2016-10-21,4.67,2,2024-02-28
+610,Christina,Gonzales,5,Physical Education,17,Master,Master of Arts in Teaching,2012-10-08,4.18,3,2024-04-24
+611,Arthur,Gonzales,13,History,15,Master,Bachelor of Education,2000-12-28,4.55,4,2024-07-17
+612,Jennifer,Jackson,14,English,13,Bachelor,Master of Arts in Teaching,2000-03-28,3.47,4,2024-11-08
+613,Anthony,Conforti,17,Art,23,Bachelor,Bachelor of Education,2007-04-18,3.33,1,2024-10-22
+614,Andrew,Thompson,11,Science,1,Bachelor,Bachelor of Education,2022-05-26,4.55,4,2024-10-05
+615,Martin,Marciano,14,History,4,Master,Master of Education,2022-03-31,3.63,4,2024-11-15
+616,Antonio,Lewis,4,History,6,Master,Bachelor of Education,2010-05-01,4.13,1,2024-02-16
+617,Leona,Hardy,5,English,19,Master,Doctor of Education,2000-10-29,3.98,4,2024-01-02
+618,Linda,Buster,7,Math,5,Bachelor,PhD in Education,2015-06-18,3.91,4,2024-05-07
+619,Aaron,Vastardis,12,Physical Education,12,Master,Master of Arts in Teaching,2016-09-25,3.63,5,2024-05-23
+620,Steven,Mcalvain,18,Science,24,Bachelor,Master of Science in Education,2018-06-03,3.02,1,2024-04-04
+621,Jennifer,Lasseter,17,English,16,Bachelor,PhD in Education,2021-04-28,4.69,1,2024-08-31
+622,Ana,Hutchinson,18,Science,13,Bachelor,PhD in Education,2010-04-16,4.08,3,2024-06-22
+623,Duane,Cobham,10,Physical Education,11,Bachelor,Doctor of Education,2001-05-24,3.83,2,2024-06-24
+624,Brett,Adu,4,History,21,Master,Doctor of Education,2006-05-08,4.44,2,2024-03-02
+625,Jorge,Defranco,2,History,15,PhD,Master of Education,2002-05-02,3.33,1,2024-06-30
+626,Marie,Smithson,8,Science,25,Bachelor,Master of Science in Education,2012-06-02,4.58,2,2024-08-18
+627,Michael,Ramos,17,Art,24,PhD,Bachelor of Education,2006-07-21,3.54,4,2024-03-06
+628,Jeanette,Tipton,1,History,23,Master,Doctor of Education,2017-09-10,3.17,1,2024-12-20
+629,Eileen,Scott,3,Math,15,PhD,Bachelor of Education,2008-01-04,4.91,4,2024-09-13
+630,Jimmy,Swanson,19,Physical Education,17,PhD,PhD in Education,2005-04-13,4.79,2,2024-02-02
+631,Kevin,Warren,9,Art,13,PhD,Master of Science in Education,2011-02-17,4.67,1,2024-02-15
+632,Ann,Okuhara,12,Science,29,Master,Bachelor of Education,2008-02-25,4.31,2,2024-10-07
+633,Johnny,Carter,15,Physical Education,29,PhD,Master of Education,2005-02-11,3.02,3,2024-06-19
+634,Kathy,Rigsby,7,Math,2,PhD,Doctor of Education,2019-04-01,4.34,1,2024-11-22
+635,Rodney,Dawkins,9,English,15,Bachelor,Master of Science in Education,2005-08-06,4.41,1,2024-01-11
+636,Nathaniel,Hubbard,1,Art,12,Master,Doctor of Education,2013-08-05,3.74,1,2024-04-17
+637,John,Loyd,4,Math,2,Master,Master of Arts in Teaching,2018-01-11,3.04,5,2024-07-24
+638,Charles,Gilliland,20,English,7,Master,Master of Education,2000-09-11,4.72,1,2024-12-30
+639,Lynn,Blackman,18,English,19,PhD,PhD in Education,2016-05-22,4.95,3,2024-08-26
+640,Vincent,Teasley,9,English,8,Bachelor,PhD in Education,2010-09-03,3.97,4,2024-04-08
+641,Essie,Meade,16,Art,17,PhD,Master of Arts in Teaching,2003-09-24,3.73,5,2024-10-22
+642,Carolyn,Galban,16,Math,12,Master,Master of Science in Education,2021-01-02,3.6,2,2024-12-18
+643,Terrence,Boyce,11,Physical Education,10,Master,Master of Arts in Teaching,2013-04-09,4.08,4,2024-05-15
+644,Raymond,Turcotte,20,Science,20,PhD,Doctor of Education,2001-05-21,4.18,2,2024-02-25
+645,Dorothy,Wirkkala,14,English,18,Master,Master of Education,2010-11-29,4.81,1,2024-07-03
+646,Larry,Hines,14,Science,16,PhD,Master of Science in Education,2015-08-27,3.17,5,2024-09-17
+647,Shelley,Bove,14,English,4,PhD,PhD in Education,2018-01-14,4.89,3,2024-03-08
+648,Anthony,Carlson,18,Physical Education,13,PhD,Master of Education,2018-01-08,4.77,4,2024-06-15
+649,Cary,Brink,12,Physical Education,2,PhD,PhD in Education,2012-07-27,4.38,2,2024-09-26
+650,Randall,Dunn,11,History,27,Master,PhD in Education,2014-02-04,4.36,1,2024-03-29
+651,Maria,Stanton,16,Science,25,Master,Bachelor of Education,2018-11-02,4.29,1,2024-06-17
+652,Matthew,Reese,20,History,9,Bachelor,Master of Arts in Teaching,2009-07-14,4.98,1,2024-11-09
+653,Richard,Smith,14,History,13,Master,Master of Education,2003-04-08,3.42,2,2024-10-05
+654,Ida,Booker,13,Art,24,Bachelor,Doctor of Education,2018-03-14,3.71,4,2024-05-14
+655,Julianne,Starks,16,History,25,PhD,Master of Science in Education,2019-01-17,4.31,5,2024-05-26
+656,April,Burkholder,10,Math,10,Bachelor,PhD in Education,2021-05-09,4.59,2,2024-04-11
+657,Cynthia,Well,7,Art,20,Bachelor,Master of Education,2014-07-04,3.46,4,2024-03-04
+658,Tamara,Cason,6,English,29,Bachelor,Master of Education,2013-04-22,3.59,5,2024-03-31
+659,Mathew,Richard,1,Math,15,Master,Master of Science in Education,2001-09-30,3.12,5,2024-10-21
+660,Sheila,Andrews,5,Math,11,Master,Bachelor of Education,2018-05-18,4.81,5,2024-09-01
+661,Carmen,Rolfe,15,Science,21,Bachelor,Master of Arts in Teaching,2021-06-27,3.58,5,2024-09-19
+662,Antionette,Lamon,8,Art,21,PhD,Master of Education,2004-05-26,3.05,2,2024-05-07
+663,Ralph,Brooks,5,English,28,Master,Bachelor of Education,2009-06-07,3.44,2,2024-08-26
+664,Joseph,Ellis,11,English,12,Bachelor,PhD in Education,2006-02-16,4.19,3,2024-12-14
+665,Christopher,Edwards,4,English,25,Bachelor,Master of Education,2009-01-19,4.19,3,2024-03-07
+666,Samuel,Sedrakyan,10,Science,29,Bachelor,PhD in Education,2014-08-27,3.9,3,2024-02-10
+667,Floria,Cannon,9,Science,13,Master,Bachelor of Education,2001-06-13,4.83,2,2024-01-05
+668,Sumiko,Chesser,3,Science,28,PhD,Master of Education,2008-02-13,3.19,4,2024-09-24
+669,Rosa,Michel,17,History,29,Master,Bachelor of Education,2001-08-11,3.82,5,2024-12-19
+670,Bennie,Braswell,2,Math,15,Master,Master of Education,2014-09-14,4.37,2,2024-07-21
+671,Eric,Bauman,20,Science,15,PhD,Doctor of Education,2011-06-12,4.11,3,2024-07-09
+672,Joan,Byrd,13,Math,29,PhD,Master of Education,2014-04-12,4.36,5,2024-12-25
+673,Craig,Reyes,16,History,23,PhD,Master of Science in Education,2010-10-03,4.28,2,2024-08-01
+674,George,Bennett,3,Art,29,Bachelor,Bachelor of Education,2006-04-06,4.11,2,2024-10-03
+675,Jeffery,Castile,3,History,8,Master,Master of Arts in Teaching,2006-08-03,3.2,1,2024-10-31
+676,Kenneth,Chittenden,1,History,7,Master,Master of Science in Education,2003-04-27,3.96,1,2024-01-20
+677,Nadia,Hamby,2,History,16,Master,Bachelor of Education,2018-05-21,3.98,4,2024-06-07
+678,Ruth,Ayers,10,Physical Education,5,PhD,Master of Science in Education,2002-06-06,3.63,1,2024-06-19
+679,Billy,Angel,4,History,22,Master,Doctor of Education,2004-03-16,3.06,5,2024-10-16
+680,Angela,Millard,1,English,23,Bachelor,Master of Arts in Teaching,2001-06-11,3.5,1,2024-01-06
+681,Lynn,Balas,15,Science,2,PhD,PhD in Education,2021-01-07,4.98,1,2024-05-10
+682,Anne,Irvin,4,Art,6,Master,Master of Science in Education,2016-04-28,4.13,5,2024-06-22
+683,Tina,Duty,11,Physical Education,16,Bachelor,Master of Arts in Teaching,2020-05-08,3.56,2,2024-05-25
+684,Keith,Pelletier,14,History,24,PhD,Doctor of Education,2014-09-17,4.06,2,2024-07-20
+685,Devin,Brown,11,Science,22,Bachelor,PhD in Education,2020-05-29,4.8,5,2024-08-29
+686,Patricia,Keener,11,Art,8,Bachelor,Doctor of Education,2023-08-22,3.9,1,2024-10-07
+687,Deidra,Parrott,6,Science,19,PhD,Doctor of Education,2020-07-04,3.41,1,2024-08-12
+688,William,Campbell,18,English,19,Master,PhD in Education,2016-07-16,4.45,1,2024-06-19
+689,John,Thompson,18,Physical Education,2,Bachelor,Master of Science in Education,2009-03-05,4.19,3,2024-05-07
+690,Sylvia,Melton,16,Science,26,Master,Bachelor of Education,2019-04-26,3.54,2,2024-06-22
+691,Melissa,Bushby,13,Art,3,PhD,PhD in Education,2002-11-26,3.67,1,2024-12-20
+692,James,Hussain,5,Art,14,Master,Bachelor of Education,2005-05-27,4.45,5,2024-09-02
+693,Robert,Calliste,6,Physical Education,23,PhD,Master of Arts in Teaching,2014-12-06,4.95,1,2024-01-05
+694,Carolyn,Peacock,6,Physical Education,8,Bachelor,Master of Science in Education,2002-04-03,4.63,4,2024-06-07
+695,Margaret,Higgins,10,Physical Education,23,Master,Doctor of Education,2020-08-17,3.74,3,2024-09-03
+696,Carmen,Sullivan,17,History,18,Bachelor,PhD in Education,2016-08-12,3.39,3,2024-07-07
+697,Sean,Mitchell,13,Art,16,Master,Master of Education,2015-05-18,4.02,5,2024-10-07
+698,Jeffrey,Georges,15,Physical Education,18,PhD,Doctor of Education,2018-01-20,3.82,3,2024-05-14
+699,Mable,Spencer,17,Physical Education,20,Bachelor,Master of Science in Education,2009-05-30,4.61,2,2024-08-11
+700,David,Richardson,9,Art,29,Bachelor,Bachelor of Education,2019-06-25,3.73,4,2024-09-05
+701,Tia,Kearns,3,Science,3,PhD,Master of Science in Education,2020-01-09,4.23,3,2024-06-10
+702,Susie,Simmons,15,Physical Education,4,Bachelor,Bachelor of Education,2001-09-15,4.21,2,2024-03-01
+703,Stephen,Yasutake,12,English,20,PhD,Bachelor of Education,2000-08-15,3.07,2,2024-08-22
+704,August,Cunningham,10,Art,1,Bachelor,Master of Arts in Teaching,2017-11-06,4.49,2,2024-05-19
+705,Clarence,Patterson,8,Math,20,Master,Master of Education,2007-12-30,4.03,5,2024-12-07
+706,Barbara,Hinde,14,Science,26,PhD,Master of Education,2000-11-07,4.14,5,2024-05-01
+707,Kenneth,Moseley,5,Physical Education,17,Bachelor,Bachelor of Education,2004-11-02,3.95,3,2024-02-10
+708,Melissa,Mcgurr,6,Science,27,PhD,Master of Arts in Teaching,2004-03-03,3.59,2,2024-11-23
+709,Mary,Howard,11,History,14,Master,Master of Arts in Teaching,2013-09-10,3.14,2,2024-11-28
+710,Mary,Vines,12,Math,24,Master,Master of Arts in Teaching,2017-08-21,4.55,3,2024-12-18
+711,Joseph,Barrow,7,Physical Education,3,PhD,Doctor of Education,2011-05-29,4.32,3,2024-04-28
+712,Colleen,Gilson,8,Physical Education,24,Master,PhD in Education,2002-10-16,3.89,2,2024-05-06
+713,Edna,Swafford,1,English,2,PhD,PhD in Education,2023-02-09,3.88,4,2024-09-29
+714,Booker,Wright,5,Physical Education,11,PhD,Doctor of Education,2011-08-10,3.27,1,2024-03-28
+715,Frances,Pearson,18,Physical Education,25,Master,Master of Science in Education,2021-11-11,4.99,3,2024-01-18
+716,Janie,Bailey,6,History,14,Master,PhD in Education,2019-05-05,4.35,1,2024-06-15
+717,Tony,Cox,18,Math,10,PhD,Master of Arts in Teaching,2008-10-23,3.81,1,2024-07-08
+718,Sherri,Weber,19,Science,20,Master,Master of Arts in Teaching,2021-05-29,4.21,3,2024-06-20
+719,Byron,Alexander,4,Science,28,PhD,Master of Science in Education,2001-12-21,4.94,5,2024-06-01
+720,Carol,Merrett,19,English,20,Master,PhD in Education,2015-10-05,3.8,3,2024-03-25
+721,Marissa,Ashby,17,History,8,PhD,Doctor of Education,2017-11-23,3.57,3,2024-04-29
+722,Desiree,Lind,4,Physical Education,18,Bachelor,Doctor of Education,2001-10-15,4.2,2,2024-10-02
+723,Kevin,Hester,15,Physical Education,26,Bachelor,Doctor of Education,2018-11-12,4.14,1,2024-08-30
+724,Steven,Cox,1,Math,7,Master,Master of Arts in Teaching,2004-03-15,3.55,3,2024-08-28
+725,Peter,Coffin,16,Science,20,Master,Doctor of Education,2013-11-19,4.62,3,2024-03-21
+726,Antonio,Johnson,1,Math,2,PhD,PhD in Education,2013-12-05,4.5,5,2024-02-25
+727,Russel,Battle,3,English,24,PhD,Master of Science in Education,2021-07-08,3.7,4,2024-04-28
+728,James,Bryant,16,English,2,Master,Doctor of Education,2004-12-23,3.04,2,2024-01-19
+729,Robert,Western,18,History,29,PhD,Master of Arts in Teaching,2017-11-05,3.78,4,2024-10-07
+730,William,West,7,English,17,Bachelor,Master of Science in Education,2012-10-02,4.11,1,2024-08-09
+731,Alphonso,Blanco,9,Math,27,Bachelor,Master of Arts in Teaching,2021-03-11,3.42,2,2024-11-09
+732,Faye,Stancill,20,Physical Education,9,Master,PhD in Education,2010-04-19,4.64,3,2024-09-28
+733,Donna,Swearengin,1,History,8,Bachelor,Bachelor of Education,2023-03-21,3.21,5,2024-09-15
+734,Deborah,Trace,9,Physical Education,23,Master,Master of Arts in Teaching,2019-06-15,3.56,4,2024-07-03
+735,William,Tomita,7,Science,12,Bachelor,PhD in Education,2022-01-27,4.69,1,2024-03-20
+736,Maximo,Cummings,4,History,12,Bachelor,PhD in Education,2001-10-12,3.8,5,2024-09-24
+737,Stephen,Lang,15,English,26,PhD,Master of Arts in Teaching,2002-10-17,3.89,2,2024-02-11
+738,Kevin,Sanford,6,English,6,Bachelor,Master of Education,2003-03-01,3.95,1,2024-05-18
+739,Vivian,Woo,9,Science,26,Master,Doctor of Education,2023-12-04,4.84,2,2024-04-14
+740,Marlene,Lemke,2,Physical Education,12,Master,Doctor of Education,2006-05-23,3.58,2,2024-01-06
+741,Donald,Walker,20,Art,14,Master,Doctor of Education,2007-01-03,3.61,2,2024-01-27
+742,Stephanie,Heckman,1,History,24,Bachelor,PhD in Education,2002-11-24,3.12,5,2024-08-02
+743,Antonio,Nifong,12,Physical Education,2,Master,Master of Arts in Teaching,2013-05-10,4.77,1,2024-10-05
+744,Walter,Alonso,8,English,8,Bachelor,Doctor of Education,2007-01-16,3.65,1,2024-05-30
+745,Theresa,Rosenblum,2,Physical Education,22,Master,Master of Education,2012-01-17,3.73,1,2024-03-28
+746,Catherine,Hadden,5,Art,14,Bachelor,Master of Arts in Teaching,2008-02-28,3.84,3,2024-03-31
+747,Phillip,Raper,13,Art,24,Bachelor,PhD in Education,2017-04-15,3.68,2,2024-08-28
+748,Deidre,Boykin,4,English,18,Master,Master of Arts in Teaching,2023-11-28,3.02,4,2024-11-30
+749,Clara,Rackham,6,Science,26,Bachelor,Doctor of Education,2005-03-19,3.65,4,2024-01-27
+750,Ryan,Hyland,8,Math,9,Master,PhD in Education,2020-01-16,4.02,1,2024-12-28
+751,Steve,Minor,2,History,27,PhD,Doctor of Education,2010-05-26,4.93,2,2024-12-04
+752,Jesse,Rojas,9,Art,10,Bachelor,Master of Science in Education,2014-05-30,4.36,5,2024-05-29
+753,Charles,Wyatt,17,Math,12,Bachelor,Doctor of Education,2019-10-02,4.71,3,2024-08-20
+754,Robert,Walsh,5,Physical Education,14,Bachelor,Master of Science in Education,2016-02-27,4.37,3,2024-11-15
+755,Robert,Arno,15,Physical Education,21,Master,Bachelor of Education,2001-10-04,4.58,5,2024-07-09
+756,Alan,Coker,15,Art,6,PhD,Doctor of Education,2020-01-20,4.16,5,2024-05-01
+757,Williams,Mccauley,6,Science,19,PhD,PhD in Education,2013-12-07,4.12,1,2024-10-01
+758,Josiah,Reed,3,Physical Education,5,Master,PhD in Education,2003-05-15,3.13,4,2024-01-13
+759,Paul,Ryan,15,English,19,PhD,Master of Education,2012-05-25,3.91,2,2024-04-09
+760,Brook,Dellinger,2,English,14,Master,Doctor of Education,2009-05-15,3.55,3,2024-09-17
+761,Argelia,Williams,14,History,1,PhD,PhD in Education,2001-03-30,3.21,2,2024-01-17
+762,Scotty,Flesher,12,Art,27,Master,Master of Education,2023-11-01,3.7,2,2024-12-22
+763,Russell,Gray,20,Art,1,PhD,Master of Science in Education,2005-05-29,4.12,3,2024-06-27
+764,Joseph,Evans,8,English,3,PhD,Master of Arts in Teaching,2012-02-02,4.32,4,2024-12-30
+765,Francis,Nolan,9,Art,25,PhD,Doctor of Education,2017-12-05,4.9,1,2024-09-28
+766,Arlie,Marshall,6,Science,7,Bachelor,Master of Education,2016-02-16,3.55,5,2024-04-22
+767,Theodore,Nagel,18,History,1,Bachelor,Doctor of Education,2013-09-23,3.26,1,2024-03-31
+768,Sandra,Davis,13,Science,25,PhD,PhD in Education,2012-10-26,3.28,5,2024-06-09
+769,Felix,Cool,17,Math,29,PhD,PhD in Education,2023-10-26,3.64,4,2024-08-18
+770,Corrine,Keene,6,History,7,Master,Doctor of Education,2008-08-18,4.11,5,2024-06-22
+771,Marketta,Quesnell,12,Art,23,PhD,Doctor of Education,2003-09-01,3.19,2,2024-04-05
+772,Michael,Mccoy,11,Art,27,Bachelor,PhD in Education,2004-09-12,4.23,3,2024-11-21
+773,William,Allen,18,Physical Education,17,PhD,Bachelor of Education,2019-08-22,4.75,5,2024-09-03
+774,Roy,Park,11,Science,6,Bachelor,Bachelor of Education,2023-11-08,4.64,5,2024-06-14
+775,Phyllis,Charlton,14,Art,10,Master,Master of Education,2001-02-10,3.11,5,2024-08-28
+776,Deborah,Davis,8,English,11,PhD,Master of Arts in Teaching,2016-05-16,4.23,2,2024-09-09
+777,Christopher,Rodriguez,13,Physical Education,7,PhD,Master of Education,2020-10-24,4.67,2,2024-10-06
+778,Delois,Owens,15,Physical Education,5,Bachelor,PhD in Education,2023-08-09,4.53,2,2024-08-03
+779,Larry,Maloney,15,History,17,Master,Doctor of Education,2020-03-01,3.87,2,2024-06-25
+780,Jose,Parsons,8,English,14,PhD,Master of Science in Education,2018-07-07,4.78,4,2024-04-17
+781,Andrea,Dougherty,1,Science,20,PhD,PhD in Education,2003-08-19,4.23,1,2024-01-31
+782,Felicia,Burchess,15,Math,5,PhD,Master of Science in Education,2017-03-16,3.35,1,2024-01-03
+783,James,Grady,2,Science,15,Bachelor,Master of Education,2010-12-17,4.4,4,2024-12-19
+784,Carmen,Rodgers,16,Science,8,PhD,Doctor of Education,2017-02-26,4.37,4,2024-05-22
+785,Carlo,Gordon,10,Physical Education,11,Master,Doctor of Education,2001-12-11,4.58,4,2024-01-18
+786,Marie,Kercy,14,English,8,Master,Bachelor of Education,2017-01-06,4.2,3,2024-10-25
+787,Ronald,Verdino,2,Art,8,PhD,Doctor of Education,2007-02-17,4.38,1,2024-07-22
+788,Martha,Taylor,14,History,29,PhD,Master of Arts in Teaching,2016-09-01,3.59,4,2024-03-06
+789,James,Barney,6,Science,18,PhD,Doctor of Education,2016-01-11,4.92,5,2024-04-20
+790,Frank,Millsaps,2,English,13,PhD,Bachelor of Education,2014-09-07,4.26,1,2024-02-04
+791,David,Burnley,2,History,11,PhD,Bachelor of Education,2014-10-17,4.69,1,2024-11-14
+792,Terry,William,16,Physical Education,15,PhD,Master of Arts in Teaching,2003-04-05,4.01,4,2024-02-11
+793,Leo,Pulaski,13,English,25,Bachelor,PhD in Education,2018-10-29,3.74,2,2024-10-26
+794,Gloria,Pascua,7,Physical Education,2,PhD,Doctor of Education,2008-08-26,4.01,4,2024-11-15
+795,Martha,Diaz,18,Math,6,Master,Bachelor of Education,2006-04-22,3.14,2,2024-01-03
+796,William,Studer,20,English,5,Bachelor,PhD in Education,2023-11-27,3.29,3,2024-06-12
+797,Dwayne,Wilson,20,Art,21,Bachelor,Master of Arts in Teaching,2000-11-12,4.22,1,2024-03-11
+798,Eva,Hawn,15,Physical Education,11,Bachelor,Master of Education,2016-05-23,3.94,3,2024-05-31
+799,Cedrick,Reed,18,Art,18,Bachelor,Master of Arts in Teaching,2005-12-16,4.29,4,2024-08-28
+800,Deborah,Jimenez,12,History,17,Bachelor,Doctor of Education,2013-06-06,4.9,1,2024-11-07
+801,Josephine,Miller,12,Math,6,Master,Doctor of Education,2023-07-28,3.8,1,2024-10-12
+802,Stephen,Boykin,10,History,23,Master,Bachelor of Education,2023-04-17,3.34,3,2024-04-21
+803,Heather,Pollard,1,Math,5,PhD,Master of Education,2009-05-09,4.85,3,2024-08-04
+804,Pat,Holze,1,English,24,Master,Doctor of Education,2003-10-31,4.42,5,2024-11-17
+805,Shirley,Pitts,11,Science,7,Master,Master of Science in Education,2006-06-19,3.07,5,2024-06-08
+806,Stephen,Diaz,12,English,14,PhD,Doctor of Education,2011-09-25,3.26,2,2024-08-01
+807,Thelma,Evans,15,English,15,Master,Bachelor of Education,2010-08-02,4.0,3,2024-06-28
+808,Catherine,Sprague,13,History,29,Bachelor,Master of Science in Education,2001-04-27,4.13,3,2024-09-19
+809,Janet,Peralez,15,Physical Education,8,PhD,Doctor of Education,2022-11-16,3.86,3,2024-07-22
+810,Thomas,Blount,18,English,21,Bachelor,Master of Science in Education,2007-01-05,4.27,2,2024-08-14
+811,Denise,Gold,2,Physical Education,19,PhD,Master of Arts in Teaching,2006-07-23,3.45,1,2024-05-14
+812,Benjamin,Marguez,16,English,25,PhD,Master of Science in Education,2016-06-03,3.71,4,2024-01-30
+813,Megan,Val,4,History,22,Bachelor,PhD in Education,2017-12-26,4.95,3,2024-02-09
+814,Timothy,Moran,4,Art,8,Bachelor,Master of Education,2002-11-21,4.37,2,2024-07-19
+815,Kendra,Westbrook,9,Science,21,Master,Master of Science in Education,2001-08-04,4.5,4,2024-07-22
+816,Kristy,Gregory,18,Art,1,Master,Doctor of Education,2001-07-20,3.64,4,2024-01-04
+817,Robert,Seibert,17,Science,18,Bachelor,Master of Science in Education,2021-11-28,4.06,2,2024-05-01
+818,Jill,Aivao,5,English,17,Master,Master of Science in Education,2021-10-07,4.1,4,2024-07-25
+819,Raymond,Parra,20,Science,9,Master,Doctor of Education,2022-01-28,3.82,4,2024-03-30
+820,Barry,Daffin,3,English,4,PhD,Doctor of Education,2012-07-02,3.09,1,2024-07-22
+821,Bruce,Martinez,16,Art,6,Bachelor,Master of Science in Education,2010-02-13,3.37,2,2024-08-31
+822,Gloria,Hall,9,Physical Education,9,PhD,Bachelor of Education,2014-06-28,4.87,4,2024-05-29
+823,Eric,Vicic,16,Art,11,PhD,Master of Science in Education,2000-03-19,4.35,2,2024-07-08
+824,Ronald,Farr,5,Art,4,Master,Master of Arts in Teaching,2006-08-25,4.6,2,2024-01-29
+825,Joanne,Burnside,1,History,12,Master,Master of Arts in Teaching,2008-10-17,3.07,5,2024-09-12
+826,Jerome,Killian,7,English,27,Master,PhD in Education,2023-11-07,3.43,3,2024-01-20
+827,Veronica,Wallach,5,English,24,Master,Master of Science in Education,2014-09-01,4.13,3,2024-04-16
+828,Charles,Heaton,5,Art,11,PhD,Master of Arts in Teaching,2023-01-19,3.9,2,2024-11-13
+829,Randy,Banks,16,Physical Education,3,Bachelor,Bachelor of Education,2006-05-30,4.31,1,2024-07-22
+830,Donald,Brush,19,Science,19,PhD,Master of Education,2023-09-05,4.86,1,2024-11-04
+831,Maria,Spradlin,7,Math,23,Master,Master of Education,2010-10-07,3.15,3,2024-11-11
+832,Nancy,Collins,13,Art,20,Master,Master of Science in Education,2011-02-24,3.93,4,2024-08-22
+833,Barbara,Moore,1,Science,6,Master,PhD in Education,2001-09-19,3.71,3,2024-12-13
+834,Christopher,Wafer,16,History,21,Bachelor,Doctor of Education,2021-03-27,3.61,2,2024-03-24
+835,Evelyn,Harris,17,English,6,Master,Doctor of Education,2007-09-09,4.14,1,2024-07-04
+836,Earl,Millard,16,English,20,Bachelor,Bachelor of Education,2005-03-05,3.43,4,2024-11-03
+837,Eric,Hansen,12,Physical Education,13,PhD,Master of Education,2002-04-15,4.43,1,2024-09-19
+838,Mary,Ward,16,Physical Education,10,PhD,Doctor of Education,2005-06-22,3.0,4,2024-10-08
+839,Eugene,Rodriguez,9,Science,13,PhD,Doctor of Education,2009-02-25,3.3,5,2024-12-11
+840,Priscilla,Steffens,3,Art,18,Master,Master of Arts in Teaching,2014-11-19,4.78,1,2024-03-10
+841,Whitney,Patterson,13,Physical Education,6,Bachelor,Master of Science in Education,2005-04-12,4.41,5,2024-09-05
+842,Virginia,Benn,7,Physical Education,5,Bachelor,Master of Science in Education,2010-08-02,3.56,2,2024-08-10
+843,Gilbert,Ojeda,14,Art,23,Bachelor,PhD in Education,2022-11-25,3.17,3,2024-05-22
+844,Adam,Fahey,16,English,21,Bachelor,Master of Education,2003-03-10,4.68,2,2024-03-27
+845,Amy,Calogero,9,Art,10,Bachelor,Master of Arts in Teaching,2008-06-21,4.39,4,2024-02-17
+846,Reginald,Vasquez,10,Art,6,Master,PhD in Education,2003-07-16,3.16,3,2024-06-20
+847,Elda,Lozano,13,Art,15,Master,PhD in Education,2022-10-15,4.52,2,2024-03-24
+848,Timothy,Charriez,7,History,21,Master,Master of Education,2019-09-06,3.35,2,2024-07-09
+849,Frances,Flores,2,Math,5,PhD,Master of Education,2000-09-22,4.22,5,2024-02-24
+850,Juan,Tofil,12,Math,23,PhD,Bachelor of Education,2015-03-21,3.18,4,2024-04-15
+851,Jacqueline,Galbraith,4,Art,27,Master,Master of Arts in Teaching,2006-04-25,3.54,4,2024-02-27
+852,Bonnie,Cardona,14,History,7,Bachelor,Master of Arts in Teaching,2011-03-09,4.69,3,2024-04-10
+853,Nicolas,Rosamond,5,History,27,Bachelor,Master of Education,2013-09-20,4.83,2,2024-05-17
+854,Chelsea,Martinez,3,English,23,Bachelor,Master of Education,2012-09-30,4.41,2,2024-08-19
+855,Tessie,Ulrich,9,Physical Education,1,PhD,Master of Education,2009-10-18,3.71,4,2024-06-23
+856,Keith,Kilby,4,History,24,Bachelor,Master of Education,2015-07-10,4.21,4,2024-03-25
+857,Willie,Hodge,14,History,9,Bachelor,Master of Education,2008-04-18,4.78,1,2024-07-09
+858,Anne,Washington,4,Science,14,PhD,Master of Arts in Teaching,2018-10-07,4.68,1,2024-03-26
+859,Candice,Paradis,2,History,16,Master,Master of Arts in Teaching,2004-02-09,4.24,5,2024-06-11
+860,Toshiko,Marshall,6,Physical Education,9,PhD,Master of Education,2004-04-19,4.11,4,2024-06-13
+861,Andrew,Hudman,20,Physical Education,28,PhD,Master of Science in Education,2007-10-30,3.29,4,2024-04-15
+862,Kelly,Tamondong,20,Science,17,Bachelor,Master of Arts in Teaching,2005-05-30,3.27,2,2024-08-10
+863,James,Seymour,8,Art,17,Master,PhD in Education,2002-07-19,4.38,5,2024-09-03
+864,Ruth,Picot,6,Physical Education,20,Bachelor,PhD in Education,2009-12-15,3.75,4,2024-11-24
+865,Douglas,Respess,13,History,22,PhD,PhD in Education,2018-04-09,3.2,3,2024-12-03
+866,Benjamin,Fisk,3,Science,28,PhD,Bachelor of Education,2015-07-23,3.41,1,2024-10-08
+867,Roxana,Moore,20,Science,23,PhD,Master of Science in Education,2021-01-16,3.35,5,2024-06-10
+868,Brent,Graves,9,Art,27,Master,Bachelor of Education,2019-10-17,4.37,5,2024-07-28
+869,Robert,Thompson,13,History,9,Bachelor,Bachelor of Education,2014-06-07,3.58,1,2024-01-06
+870,Kimberly,Goss,4,Math,5,Master,Master of Science in Education,2010-05-16,3.13,5,2024-02-13
+871,Matthew,Goodrich,17,History,18,PhD,PhD in Education,2005-06-14,4.6,1,2024-11-11
+872,Holly,Hosier,2,Science,10,PhD,Master of Science in Education,2005-11-09,3.75,5,2024-12-30
+873,Jeffie,Alvarez,17,Physical Education,25,Bachelor,Doctor of Education,2000-08-05,3.02,2,2024-04-06
+874,Judy,Baker,20,Math,4,PhD,Doctor of Education,2006-05-02,4.35,1,2024-05-30
+875,Diane,Davis,11,Math,23,PhD,Bachelor of Education,2021-01-19,3.01,1,2024-02-10
+876,June,Gordin,6,Art,20,Master,Master of Arts in Teaching,2012-05-28,3.35,4,2024-05-29
+877,Mildred,Hubbard,19,Art,24,Bachelor,Master of Arts in Teaching,2021-06-19,4.26,5,2024-09-27
+878,Ryan,Parrott,11,Math,2,PhD,PhD in Education,2016-08-23,3.77,3,2024-08-15
+879,Kimberly,Rivera,17,Math,20,Bachelor,PhD in Education,2002-10-17,4.22,2,2024-11-28
+880,Ruth,Denham,1,Art,6,Master,Master of Education,2008-08-02,3.89,2,2024-11-18
+881,Daniel,Thompson,16,Science,8,PhD,Master of Science in Education,2023-05-20,3.35,4,2024-10-26
+882,Martha,Miller,11,English,5,Master,Master of Science in Education,2014-09-01,3.36,3,2024-04-06
+883,Angie,Durham,5,Math,16,Master,Doctor of Education,2017-02-25,4.78,1,2024-03-10
+884,Antonia,Jackson,1,Art,8,Master,Master of Education,2009-08-19,3.25,2,2024-05-18
+885,John,Woods,20,History,28,Master,Master of Science in Education,2012-11-04,4.81,1,2024-02-27
+886,Helen,Volk,11,History,29,PhD,Doctor of Education,2022-03-10,3.01,3,2024-01-30
+887,Shelley,Kher,11,English,20,PhD,PhD in Education,2010-06-09,4.99,2,2024-07-03
+888,Roosevelt,Ledesma,1,Physical Education,19,Master,Bachelor of Education,2008-09-02,3.16,3,2024-09-05
+889,Melba,Etheridge,16,Math,9,Bachelor,Master of Education,2010-11-01,4.14,3,2024-09-24
+890,Wayne,Sanders,18,Science,26,Bachelor,Master of Science in Education,2012-03-20,4.18,3,2024-07-07
+891,Christina,Huang,11,Art,26,PhD,Doctor of Education,2014-01-12,4.29,5,2024-02-01
+892,Nancy,Hogen,20,Science,6,PhD,Master of Science in Education,2006-05-18,3.63,4,2024-12-10
+893,Donna,Merrick,8,Art,9,Bachelor,PhD in Education,2012-01-07,4.77,2,2024-06-15
+894,William,Gomez,1,Physical Education,27,Bachelor,Master of Arts in Teaching,2020-11-02,3.38,4,2024-03-29
+895,Holly,Varrone,13,History,4,Bachelor,Bachelor of Education,2006-09-02,4.06,1,2024-04-10
+896,Tracy,Hopper,10,English,9,Master,Bachelor of Education,2014-06-02,4.61,1,2024-06-04
+897,Thomas,Babb,15,History,10,PhD,Master of Science in Education,2008-04-14,3.02,4,2024-09-28
+898,Doris,Stock,4,Physical Education,11,Bachelor,Doctor of Education,2005-07-03,3.57,4,2024-11-05
+899,Melba,Czech,16,Physical Education,29,PhD,Master of Education,2005-10-01,3.58,4,2024-02-08
+900,Alan,Crisler,19,Science,13,PhD,Master of Science in Education,2011-11-25,4.4,4,2024-11-04
+901,Matthew,Bland,14,History,9,PhD,Doctor of Education,2002-04-12,3.78,4,2024-03-10
+902,Jan,Barnett,14,Math,26,PhD,Master of Arts in Teaching,2006-03-22,3.42,3,2024-01-17
+903,Emmett,Segovia,3,Math,3,Bachelor,Master of Education,2015-07-26,4.29,4,2024-01-16
+904,Aida,Upchurch,12,Art,8,Bachelor,Master of Arts in Teaching,2010-10-19,3.09,4,2024-05-10
+905,Andrea,Lowman,17,History,4,Master,Master of Science in Education,2003-04-30,4.45,2,2024-08-30
+906,Carmen,Adams,3,Math,1,Bachelor,Master of Arts in Teaching,2008-08-23,4.7,5,2024-12-19
+907,Carol,Ruffin,8,Physical Education,25,Master,Bachelor of Education,2002-10-11,4.02,1,2024-06-10
+908,Robert,Neu,15,Physical Education,7,Bachelor,Master of Arts in Teaching,2002-02-18,3.06,2,2024-03-09
+909,Heather,Olson,7,History,9,Bachelor,Master of Arts in Teaching,2023-06-06,4.8,4,2024-06-23
+910,Carl,Mason,9,Science,15,PhD,Doctor of Education,2006-08-03,4.56,3,2024-01-09
+911,Steven,Hughes,11,History,10,PhD,Master of Science in Education,2003-11-23,4.91,5,2024-06-04
+912,Jeffrey,Witcher,9,History,12,Master,PhD in Education,2021-03-06,3.73,4,2024-07-11
+913,April,Casey,1,Art,15,PhD,Doctor of Education,2012-05-22,4.2,5,2024-05-13
+914,Norma,Crowell,2,English,17,PhD,Master of Education,2011-01-18,3.94,3,2024-08-27
+915,Ashley,Wilson,8,Math,22,PhD,Doctor of Education,2023-07-09,4.04,5,2024-11-17
+916,Steve,Braun,5,History,7,Master,Doctor of Education,2006-05-27,4.83,4,2024-11-21
+917,Justin,Day,20,Physical Education,7,PhD,Doctor of Education,2004-07-06,3.18,5,2024-10-15
+918,Marie,Warriner,19,History,13,Bachelor,Bachelor of Education,2017-08-21,3.14,2,2024-07-14
+919,Katherine,Berkowitz,12,Art,6,Master,Bachelor of Education,2014-08-30,4.07,1,2024-07-11
+920,Donetta,Falck,17,Physical Education,13,PhD,Doctor of Education,2017-06-20,3.43,3,2024-05-02
+921,Barbara,Gallman,4,History,2,Master,Bachelor of Education,2001-12-15,3.75,1,2024-02-14
+922,Sue,Rios,3,Math,7,Bachelor,Master of Science in Education,2017-07-18,3.7,1,2024-10-12
+923,Erica,Harman,2,Science,27,Bachelor,Master of Arts in Teaching,2018-05-08,4.67,1,2024-01-17
+924,Maya,Ambrose,3,Math,1,Master,Doctor of Education,2008-07-27,4.76,5,2024-02-01
+925,Corey,Cuneo,9,Science,11,PhD,Master of Arts in Teaching,2017-08-05,3.65,1,2024-10-20
+926,Flora,Sliva,15,Art,1,Master,Master of Arts in Teaching,2014-02-23,4.86,2,2024-12-10
+927,Gene,Truitt,1,Physical Education,3,PhD,Bachelor of Education,2008-02-25,4.38,1,2024-10-31
+928,Zelda,Stuer,13,Physical Education,24,Bachelor,Bachelor of Education,2009-04-25,4.58,3,2024-04-02
+929,Robert,Martin,7,Science,22,Bachelor,Bachelor of Education,2018-06-26,3.29,5,2024-04-07
+930,Justina,Whitman,16,Physical Education,10,Bachelor,Master of Arts in Teaching,2014-08-07,3.72,5,2024-03-14
+931,Howard,Herrera,3,History,26,PhD,PhD in Education,2004-04-09,3.49,1,2024-12-20
+932,Damon,Edmisten,9,History,6,PhD,Doctor of Education,2022-04-14,4.51,4,2024-12-10
+933,Alan,Walden,12,Math,13,Bachelor,Master of Education,2019-09-10,3.73,4,2024-04-10
+934,Mary,White,17,Physical Education,27,PhD,PhD in Education,2006-10-12,4.12,1,2024-02-16
+935,Timothy,Cross,14,History,24,Bachelor,Master of Education,2007-09-17,4.59,5,2024-06-01
+936,Teodora,Massie,20,Math,11,PhD,Master of Science in Education,2014-03-09,4.46,4,2024-09-06
+937,Charles,Williams,20,Science,13,Master,Bachelor of Education,2001-12-10,3.5,5,2024-01-13
+938,Richard,Jorge,17,Science,19,PhD,Bachelor of Education,2021-12-19,4.38,5,2024-10-13
+939,Paula,Mcbee,5,Math,15,Bachelor,Doctor of Education,2008-04-11,4.27,2,2024-03-17
+940,Richard,Meyer,5,Physical Education,6,Bachelor,Master of Science in Education,2019-08-25,4.85,3,2024-04-12
+941,Leon,Matty,13,Physical Education,2,PhD,Doctor of Education,2018-06-17,3.6,4,2024-01-26
+942,Iva,Brown,13,Math,25,Bachelor,Master of Arts in Teaching,2018-08-08,4.95,1,2024-04-24
+943,Bruce,Chapman,14,Science,12,PhD,Bachelor of Education,2017-01-10,3.24,2,2024-04-26
+944,Jamie,Jones,2,Science,21,PhD,Master of Arts in Teaching,2014-02-20,4.06,5,2024-01-21
+945,Nelda,Werk,9,Math,6,Bachelor,Doctor of Education,2020-09-18,4.5,2,2024-08-15
+946,Juanita,Haigh,9,Math,20,PhD,Master of Arts in Teaching,2005-05-01,3.93,4,2024-01-08
+947,George,Zellars,12,Art,7,Master,Master of Arts in Teaching,2001-04-27,4.7,2,2024-01-19
+948,Andres,Credi,3,Art,16,PhD,Master of Arts in Teaching,2005-10-05,3.09,5,2024-12-01
+949,Cindy,Jennins,4,Science,25,Bachelor,Master of Education,2005-01-17,3.67,1,2024-06-07
+950,Daniel,Petrick,14,Science,23,Master,Master of Education,2020-05-01,4.2,5,2024-12-01
+951,James,Pollock,5,Science,25,Bachelor,PhD in Education,2021-02-04,4.97,2,2024-05-31
+952,Charles,Manes,5,History,9,Master,Master of Arts in Teaching,2012-06-23,3.97,5,2024-07-02
+953,Steve,Allscheid,20,English,14,PhD,Master of Arts in Teaching,2007-01-08,4.92,2,2024-08-21
+954,Mike,Brown,19,Math,21,Bachelor,Bachelor of Education,2014-05-28,3.47,3,2024-03-11
+955,Sheila,Estes,12,Math,13,Master,Doctor of Education,2006-06-13,3.5,5,2024-04-08
+956,Jason,Ryan,20,Art,6,PhD,Master of Arts in Teaching,2019-12-03,4.82,2,2024-10-18
+957,Thomas,Jenkins,17,Physical Education,29,Master,Master of Science in Education,2021-11-02,3.06,1,2024-02-21
+958,Janette,Misnick,9,Math,22,Bachelor,Doctor of Education,2021-08-21,3.84,4,2024-11-26
+959,Antonio,Fischetti,3,English,29,Bachelor,Doctor of Education,2011-12-25,3.95,3,2024-04-17
+960,Daniel,Wise,2,History,13,Master,Master of Education,2005-09-14,4.36,5,2024-10-07
+961,Delores,Segovia,19,Physical Education,18,Master,Master of Science in Education,2020-03-18,3.84,2,2024-09-08
+962,Jeremy,Graves,11,Science,16,PhD,Master of Education,2011-07-12,4.55,2,2024-09-16
+963,David,Osborne,19,Art,4,PhD,Bachelor of Education,2008-07-06,4.0,5,2024-07-17
+964,Terry,Garcia,17,Math,17,Bachelor,Bachelor of Education,2016-04-18,3.61,4,2024-09-02
+965,Lynn,Smith,20,English,18,Master,Master of Arts in Teaching,2018-12-23,3.62,4,2024-03-16
+966,Anita,Tucker,6,Science,6,Master,Master of Science in Education,2010-05-13,3.5,1,2024-12-11
+967,Sandra,Little,7,History,17,Master,Master of Education,2014-10-07,3.06,3,2024-05-29
+968,Jeffrey,Dingman,18,Math,24,Bachelor,Bachelor of Education,2010-07-24,4.89,1,2024-08-20
+969,Eleanor,Martinez,3,English,8,Bachelor,Master of Arts in Teaching,2015-01-18,4.32,1,2024-01-12
+970,Tina,Shadwick,8,Art,5,Bachelor,Doctor of Education,2013-03-25,4.03,3,2024-07-05
+971,Barbara,Rossi,17,English,28,PhD,Master of Science in Education,2014-03-16,3.19,4,2024-10-18
+972,Ann,Shane,5,History,26,Master,Master of Education,2020-11-18,3.93,1,2024-07-26
+973,Anne,Clouthier,10,History,20,Master,PhD in Education,2021-02-28,4.02,5,2024-02-07
+974,Anne,Terry,1,History,1,Bachelor,Master of Arts in Teaching,2020-12-13,4.35,5,2024-05-23
+975,Cameron,Kent,4,History,24,Master,Bachelor of Education,2004-03-05,4.14,4,2024-11-09
+976,Maira,Richards,16,Physical Education,2,Bachelor,Bachelor of Education,2001-12-12,4.24,4,2024-08-31
+977,Chad,Hill,1,History,13,PhD,Bachelor of Education,2011-06-15,4.03,5,2024-04-19
+978,Tara,Steel,19,Science,24,Bachelor,Master of Education,2018-05-30,4.83,1,2024-04-15
+979,Travis,Zenger,6,History,11,PhD,Master of Science in Education,2016-06-18,3.13,4,2024-03-05
+980,Terry,Carr,12,Science,26,Bachelor,PhD in Education,2020-06-12,3.28,1,2024-05-24
+981,Janice,Collins,7,Art,3,Master,PhD in Education,2007-07-23,3.07,1,2024-10-12
+982,Gerard,Gerner,20,Physical Education,1,Master,PhD in Education,2018-11-29,3.45,4,2024-03-11
+983,Robert,Hanks,20,English,18,PhD,PhD in Education,2015-05-17,4.13,1,2024-10-12
+984,Lori,Beaudreault,15,English,11,Bachelor,Bachelor of Education,2001-08-18,4.94,5,2024-07-25
+985,Eileen,Hill,19,Art,23,Bachelor,PhD in Education,2010-07-11,3.06,4,2024-01-05
+986,Melissa,Murphy,3,History,21,PhD,PhD in Education,2013-02-06,4.55,1,2024-08-04
+987,Armando,Lanier,13,Art,19,Bachelor,Master of Arts in Teaching,2003-02-25,4.06,1,2024-02-02
+988,Joseph,Martin,9,Math,16,Master,Bachelor of Education,2019-05-06,3.55,3,2024-05-08
+989,Karina,Cooperman,10,English,12,Master,Bachelor of Education,2020-09-19,3.36,5,2024-09-04
+990,Diane,Dashiell,8,Art,20,Bachelor,Master of Science in Education,2010-04-05,4.62,4,2024-03-24
+991,Bertha,Turner,8,Physical Education,7,Master,Bachelor of Education,2017-11-09,4.61,1,2024-12-14
+992,Margaret,Mccoy,5,Physical Education,20,Bachelor,Master of Science in Education,2014-05-14,3.96,4,2024-05-08
+993,Vada,Catoe,19,Physical Education,10,PhD,Bachelor of Education,2019-09-15,3.6,2,2024-02-02
+994,Sara,Stair,19,Art,27,PhD,Master of Science in Education,2000-09-15,4.78,3,2024-03-24
+995,James,Dube,14,History,10,PhD,Master of Arts in Teaching,2007-04-23,4.6,3,2024-01-30
+996,Victoria,Orem,9,Physical Education,24,PhD,Master of Science in Education,2013-08-11,3.03,5,2024-10-04
+997,Ruth,Cummings,7,Science,13,Master,Doctor of Education,2005-03-21,3.63,3,2024-12-01
+998,Kathleen,Mona,20,Art,23,PhD,Doctor of Education,2018-06-30,4.23,5,2024-03-08
+999,Jennie,Helton,4,English,22,PhD,Master of Education,2015-01-15,3.06,5,2024-04-04
+1000,Elizabeth,Dion,11,Art,1,Master,PhD in Education,2000-11-04,4.56,1,2024-04-06

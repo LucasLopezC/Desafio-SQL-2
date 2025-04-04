@@ -1,0 +1,101 @@
+School_ID,School_Name,City_ID,School_Type,Location,Total_Students,Founding_Year,Average_Class_Size,Budget_per_Student,Extracurricular_Programs
+1,Roosevelt Preparatory 1,5,Public,Urban,968,1954,31,16078,17
+2,Kennedy High School 2,7,Private,Urban,1157,1941,34,5707,25
+3,Jefferson Preparatory 3,3,Public,Urban,1400,2016,25,15579,9
+4,Kennedy Academy 4,19,Public,Suburban,1575,2009,18,17444,18
+5,Washington High School 5,1,Public,Rural,975,1973,32,12415,29
+6,Lincoln Secondary School 6,12,Private,Urban,1384,1986,26,15961,28
+7,Roosevelt Secondary School 7,12,Private,Suburban,736,1997,23,6467,13
+8,Washington Academy 8,9,Private,Urban,902,1983,21,14227,12
+9,Jefferson Academy 9,20,Private,Suburban,1098,1914,19,12848,7
+10,Jefferson Academy 10,6,Private,Suburban,356,1901,32,10623,9
+11,Jefferson Secondary School 11,14,Public,Suburban,230,1926,29,5820,11
+12,Lincoln Academy 12,14,Private,Urban,1933,1932,25,17651,25
+13,Lincoln Secondary School 13,18,Public,Rural,1647,1930,31,13251,7
+14,Jefferson High School 14,9,Private,Suburban,838,1911,16,18366,23
+15,Jefferson High School 15,14,Public,Suburban,1525,1947,15,7686,9
+16,Jefferson Secondary School 16,3,Public,Suburban,370,1950,29,5385,20
+17,Washington High School 17,20,Private,Urban,1142,1918,30,6244,16
+18,Jefferson Academy 18,10,Private,Rural,803,1935,32,18943,28
+19,Jefferson Secondary School 19,12,Private,Urban,203,1991,33,13721,15
+20,Washington High School 20,6,Public,Rural,1965,1984,33,18982,14
+21,Jefferson Secondary School 21,16,Public,Suburban,1561,1933,15,10467,7
+22,Jefferson Secondary School 22,11,Public,Suburban,874,1911,19,5997,10
+23,Washington Academy 23,2,Private,Rural,821,1985,25,19836,23
+24,Jefferson Secondary School 24,12,Public,Suburban,777,2009,26,11421,23
+25,Jefferson Preparatory 25,6,Private,Suburban,438,2009,32,15937,29
+26,Lincoln Secondary School 26,14,Public,Suburban,1371,1924,22,6620,8
+27,Washington High School 27,7,Private,Suburban,302,1905,15,6944,7
+28,Kennedy Preparatory 28,16,Public,Rural,1551,1924,28,13344,9
+29,Jefferson Preparatory 29,15,Public,Rural,470,2009,27,10485,15
+30,Lincoln Preparatory 30,12,Private,Rural,763,1935,26,18684,23
+31,Lincoln Secondary School 31,18,Private,Rural,1510,1914,32,19004,6
+32,Lincoln Preparatory 32,9,Public,Rural,1543,2016,34,5602,22
+33,Kennedy High School 33,4,Public,Rural,918,1924,22,18893,26
+34,Washington Academy 34,12,Public,Suburban,840,2012,25,12122,19
+35,Jefferson High School 35,8,Public,Rural,1970,1952,30,12421,24
+36,Lincoln High School 36,18,Private,Suburban,283,1973,26,13176,6
+37,Roosevelt Secondary School 37,13,Public,Urban,339,1933,34,17861,12
+38,Lincoln Preparatory 38,3,Private,Suburban,1778,1908,29,12139,28
+39,Roosevelt High School 39,18,Public,Suburban,976,1947,31,18632,11
+40,Lincoln High School 40,16,Private,Suburban,623,1986,23,17823,24
+41,Jefferson Preparatory 41,9,Private,Rural,1766,1918,16,17859,29
+42,Jefferson Preparatory 42,10,Private,Rural,975,1949,20,9258,25
+43,Jefferson Academy 43,13,Public,Urban,1005,1916,17,15462,19
+44,Kennedy Secondary School 44,20,Private,Rural,1973,1920,28,14327,13
+45,Washington Secondary School 45,16,Public,Suburban,1579,1963,33,10625,13
+46,Washington Secondary School 46,5,Public,Suburban,186,1902,32,6672,20
+47,Kennedy Academy 47,8,Public,Suburban,542,2005,25,17232,27
+48,Roosevelt High School 48,12,Public,Urban,1164,2002,28,13728,15
+49,Jefferson Academy 49,20,Private,Rural,1844,1923,23,6365,26
+50,Lincoln Academy 50,19,Public,Rural,1813,1981,25,5825,8
+51,Roosevelt Academy 51,19,Public,Suburban,547,1905,26,10011,14
+52,Washington Preparatory 52,1,Private,Urban,125,1946,34,6640,14
+53,Washington Secondary School 53,1,Private,Suburban,662,1924,34,8425,24
+54,Jefferson Academy 54,20,Private,Suburban,300,1937,17,12478,6
+55,Washington Academy 55,10,Private,Rural,1433,1928,18,11546,5
+56,Kennedy Academy 56,18,Public,Urban,1520,1905,21,16191,11
+57,Lincoln Academy 57,11,Private,Urban,1050,2016,33,9526,7
+58,Washington Academy 58,16,Public,Urban,1493,1951,24,6966,13
+59,Jefferson Academy 59,14,Private,Urban,477,1913,32,10728,19
+60,Lincoln Preparatory 60,14,Public,Suburban,1121,1927,18,19599,26
+61,Kennedy High School 61,1,Private,Suburban,1007,1993,28,8771,8
+62,Roosevelt High School 62,8,Public,Rural,1437,1923,17,17681,6
+63,Kennedy Secondary School 63,3,Public,Rural,1775,1930,16,10552,11
+64,Lincoln Academy 64,8,Public,Urban,135,1932,26,14645,26
+65,Roosevelt Secondary School 65,12,Public,Suburban,1709,2017,27,11580,5
+66,Washington Preparatory 66,7,Public,Suburban,1532,2016,23,10559,8
+67,Lincoln Academy 67,18,Public,Urban,383,1922,25,15760,9
+68,Roosevelt Secondary School 68,7,Private,Suburban,1064,2014,28,12910,23
+69,Jefferson High School 69,19,Public,Urban,187,1980,27,8860,8
+70,Washington High School 70,6,Public,Suburban,1767,1909,22,12214,20
+71,Washington High School 71,19,Private,Suburban,1915,2009,23,19118,19
+72,Roosevelt Secondary School 72,2,Private,Suburban,1980,1929,23,8871,14
+73,Washington Academy 73,19,Private,Urban,1992,1919,18,19830,12
+74,Roosevelt High School 74,19,Public,Rural,1981,1954,19,11205,21
+75,Kennedy High School 75,8,Private,Urban,433,1962,26,12184,24
+76,Lincoln Academy 76,14,Private,Rural,1585,2009,23,17297,7
+77,Kennedy High School 77,18,Public,Suburban,373,1940,15,13250,13
+78,Kennedy Preparatory 78,14,Private,Rural,1666,1934,21,12671,12
+79,Lincoln Preparatory 79,11,Private,Suburban,1621,1969,20,5462,20
+80,Roosevelt Preparatory 80,15,Private,Urban,1736,1982,15,17648,18
+81,Jefferson Secondary School 81,16,Private,Rural,1226,1969,19,9650,11
+82,Roosevelt Secondary School 82,16,Private,Rural,311,1976,34,8485,6
+83,Kennedy Secondary School 83,17,Public,Rural,584,2008,24,13703,28
+84,Washington Preparatory 84,1,Public,Rural,726,1924,19,12588,20
+85,Jefferson Secondary School 85,18,Public,Urban,621,1969,28,6237,16
+86,Jefferson Secondary School 86,9,Public,Rural,380,1952,16,8423,10
+87,Jefferson High School 87,5,Public,Urban,1196,1906,32,15920,14
+88,Roosevelt Secondary School 88,10,Private,Urban,696,1930,22,6552,5
+89,Kennedy Preparatory 89,19,Public,Suburban,504,1958,31,10314,20
+90,Kennedy High School 90,3,Private,Urban,670,1923,22,18421,19
+91,Washington Preparatory 91,2,Public,Suburban,1229,1968,20,12364,25
+92,Lincoln Preparatory 92,16,Public,Rural,1419,1972,19,6776,23
+93,Kennedy High School 93,4,Public,Urban,934,1969,22,16090,6
+94,Washington High School 94,13,Public,Rural,1717,1935,28,9964,11
+95,Lincoln Academy 95,5,Private,Rural,1901,1908,26,10912,10
+96,Roosevelt Preparatory 96,4,Private,Rural,1071,1963,23,16506,10
+97,Lincoln Secondary School 97,4,Public,Suburban,1391,1946,27,5253,12
+98,Kennedy Preparatory 98,10,Public,Rural,913,1998,17,10930,12
+99,Washington High School 99,9,Private,Rural,1617,1959,21,19767,23
+100,Roosevelt Academy 100,17,Private,Suburban,825,1973,17,6661,25
